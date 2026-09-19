@@ -1,0 +1,262 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>02-problem</title>
+  </head>
+  <body>
+    <template>
+      <style>
+/* ============================================================
+   STARSHIELD PROMO — HOUSE STYLE
+   Variant B (Brand Red / White / Black) per Starshield Product
+   Video Style Guide v1.1. Shared by every scene so the brand
+   devices are pixel-identical across the cut.
+   ============================================================ */
+
+@font-face{font-family:"Montserrat";src:url("assets/fonts/montserrat-latin-800-normal.woff2") format("woff2");font-weight:800;font-style:normal;font-display:block}
+@font-face{font-family:"Montserrat";src:url("assets/fonts/montserrat-latin-900-normal.woff2") format("woff2");font-weight:900;font-style:normal;font-display:block}
+@font-face{font-family:"Poppins";src:url("assets/fonts/poppins-latin-400-normal.woff2") format("woff2");font-weight:400;font-style:normal;font-display:block}
+@font-face{font-family:"Poppins";src:url("assets/fonts/poppins-latin-500-normal.woff2") format("woff2");font-weight:500;font-style:normal;font-display:block}
+@font-face{font-family:"Poppins";src:url("assets/fonts/poppins-latin-600-normal.woff2") format("woff2");font-weight:600;font-style:normal;font-display:block}
+
+:root{
+  --near-black:#0a0a0a;
+  --accent:#E5484D;
+  --brand:#C1272D;
+  --brand-dark:#8C1B20;
+  --white:#FFFFFF;
+  --ink:#1A1A1A;
+  --support:#dcdcdc;
+  --card-desc:#c9c9c9;
+  --pill-text:#eaeaea;
+  --end-tagline:#6b6b6b;
+  --hairline:rgba(255,255,255,.10);
+  --card-fill:rgba(255,255,255,.045);
+  --card-border:rgba(255,255,255,.09);
+  --edge:120px;
+}
+
+/* ---------- scene shell ---------- */
+.stage{position:absolute;inset:0;overflow:hidden;background:var(--near-black);
+  font-family:"Poppins",sans-serif;-webkit-font-smoothing:antialiased}
+
+/* ---------- ENGINEERED FLOOR ENVIRONMENT ----------
+   Stands in for stock photography (unreachable in this
+   environment). Never a flat fill: a receding glossy plane in
+   perspective, a specular bloom, depth haze, a horizon hairline
+   and a grain layer. Per-scene vars vary the camera. */
+.ground-wrap{position:absolute;inset:-5%;}          /* 5% larger than frame, per the Ken Burns rule */
+.ground{position:absolute;inset:0;overflow:hidden;
+  --horizon:54%; --bloom-x:64%; --bloom-y:50%; --tint:#232020; --sheen:.50;}
+.ground .backdrop{position:absolute;inset:0;
+  background:
+    radial-gradient(52% 44% at calc(var(--bloom-x) + 6%) 26%, rgba(255,226,196,.22) 0%, transparent 70%),
+    radial-gradient(128% 96% at var(--bloom-x) 32%, var(--tint) 0%, #2a2523 38%, #161413 70%, #0c0b0b 100%);}
+.ground .haze{position:absolute;inset:0;
+  background:radial-gradient(74% 50% at var(--bloom-x) var(--bloom-y), rgba(255,238,218,.30) 0%, rgba(255,216,192,.12) 40%, transparent 74%);}
+.ground .horizon{position:absolute;left:0;right:0;top:var(--horizon);height:2px;
+  background:linear-gradient(90deg,transparent 0%,rgba(255,255,255,.30) 22%,rgba(255,244,230,.88) 58%,rgba(255,255,255,.34) 82%,transparent 100%);}
+.ground .floor{position:absolute;top:var(--horizon);left:-100%;width:300%;height:1300px;
+  transform-origin:50% 0%;transform:perspective(760px) rotateX(76deg);
+  background:
+    repeating-linear-gradient(90deg, rgba(255,255,255,.10) 0 1px, transparent 1px 210px),
+    repeating-linear-gradient(0deg,  rgba(255,255,255,.12) 0 1px, transparent 1px 150px),
+    linear-gradient(180deg, #9a8878 0%, #6b5e54 16%, #403934 44%, #211e1c 74%, #100f0e 100%);
+  -webkit-mask-image:linear-gradient(180deg, rgba(0,0,0,.95) 0%, rgba(0,0,0,.72) 26%, rgba(0,0,0,.30) 62%, transparent 100%);
+          mask-image:linear-gradient(180deg, rgba(0,0,0,.95) 0%, rgba(0,0,0,.72) 26%, rgba(0,0,0,.30) 62%, transparent 100%);}
+.ground .sheen{position:absolute;left:0;right:0;top:var(--horizon);bottom:0;
+  background:
+    radial-gradient(9% 78% at calc(var(--bloom-x) + 9%) 0%, rgba(255,250,242,calc(.72*var(--sheen))) 0%, transparent 66%),
+    radial-gradient(4% 52% at calc(var(--bloom-x) - 14%) 0%, rgba(255,248,238,calc(.40*var(--sheen))) 0%, transparent 62%),
+    radial-gradient(60% 132% at var(--bloom-x) 0%, rgba(255,241,225,calc(.85*var(--sheen))) 0%, rgba(255,226,206,calc(.34*var(--sheen))) 32%, transparent 72%);}
+.ground .grain{position:absolute;inset:0;opacity:.30;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch' seed='7'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)' opacity='0.42'/%3E%3C/svg%3E");}
+
+/* Frame 2's matte, unprotected slab — the one non-glossy ground. */
+.ground.matte{--sheen:.20;--tint:#332e2a;}
+.ground.matte .floor{
+  background:
+    repeating-linear-gradient(118deg, rgba(255,255,255,.040) 0 2px, transparent 2px 15px),
+    repeating-linear-gradient(0deg,  rgba(255,255,255,.060) 0 1px, transparent 1px 110px),
+    linear-gradient(180deg, #6d6058 0%, #443c37 26%, #272320 58%, #0f0e0e 100%);}
+.ground.matte .haze{background:radial-gradient(66% 44% at var(--bloom-x) var(--bloom-y), rgba(216,220,228,.15) 0%, transparent 72%);}
+
+/* ---------- MANDATORY TWO-LAYER SCRIM ----------
+   Never a flat single-colour overlay: that reads as a box. */
+.scrim{position:absolute;inset:0;
+  background:
+    linear-gradient(100deg, rgba(0,0,0,.92) 0%, rgba(0,0,0,.78) 42%, rgba(0,0,0,.20) 100%),
+    linear-gradient(180deg, rgba(0,0,0,.15) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,.55) 100%);}
+.scrim.even{background:
+    linear-gradient(100deg, rgba(0,0,0,.88) 0%, rgba(0,0,0,.70) 46%, rgba(0,0,0,.40) 100%),
+    linear-gradient(180deg, rgba(0,0,0,.15) 0%, rgba(0,0,0,0) 45%, rgba(0,0,0,.55) 100%);}
+
+/* ---------- BASELINE TICK MOTIF (dark scenes only) ---------- */
+.tickwrap{position:absolute;left:0;right:0;bottom:56px;height:26px}
+.tickline{position:absolute;left:0;right:0;top:0;height:2px;
+  background:linear-gradient(90deg,transparent 0%,var(--accent) 22%,var(--accent) 78%,transparent 100%);
+  transform-origin:50% 50%}
+.ticks{position:absolute;left:72px;right:72px;top:8px;display:flex;justify-content:space-between}
+.ticks i{display:block;width:10px;height:16px;border-radius:4px 4px 0 0;opacity:.55;
+  background:linear-gradient(180deg,var(--accent) 0%,var(--brand-dark) 100%)}
+
+/* ---------- TEXT COLUMN ---------- */
+.col{position:absolute;left:var(--edge);top:50%;transform:translateY(-50%);
+  width:1010px;max-width:1010px}
+.eyebrow{display:flex;align-items:center;gap:14px;font-family:"Poppins";font-weight:600;
+  font-size:21px;letter-spacing:5px;text-transform:uppercase;color:var(--accent)}
+.eyebrow::before{content:"";display:block;width:34px;height:3px;background:var(--accent);flex:none}
+h1,h2{margin:0;font-family:"Montserrat",sans-serif;font-weight:900;text-transform:uppercase;
+  color:var(--white);letter-spacing:.5px}
+h1{font-size:104px;line-height:1.04}
+h2{font-size:69px;line-height:1.06}
+.hl{color:var(--accent)}
+.rule{width:120px;height:5px;background:var(--brand);transform-origin:left center}
+.support{font-family:"Poppins";font-weight:400;font-size:27px;line-height:1.55;color:var(--support);
+  max-width:960px;margin:0}
+
+/* ---------- LOGO LOCKUP (top-right reserved zone, 230x64) ---------- */
+.logo{position:absolute;top:56px;right:120px;display:flex;align-items:center;gap:13px;height:64px}
+.logo .star{width:40px;height:40px;flex:none}
+.logo .bar{width:1px;height:42px;background:rgba(255,255,255,.22);flex:none}
+.logo .txt{display:flex;flex-direction:column;justify-content:center;line-height:1}
+.logo .wm{font-family:"Montserrat";font-weight:900;font-size:25px;letter-spacing:.6px;color:var(--brand)}
+.logo .sub{font-family:"Poppins";font-weight:400;font-size:11.5px;letter-spacing:.35px;color:rgba(255,255,255,.80);margin-top:3px}
+.logo.light .bar{background:rgba(0,0,0,.16)}
+.logo.light .sub{color:rgba(26,26,26,.72)}
+
+/* ---------- PRODUCT ZONE (right 35-40%) ---------- */
+.product{position:absolute;right:112px;bottom:170px;display:block}
+.product img{display:block;height:100%;width:auto;filter:drop-shadow(0 38px 52px rgba(0,0,0,.66))}
+.reflect{position:absolute;left:0;right:0;top:100%;height:34%;pointer-events:none;
+  background-repeat:no-repeat;background-position:center bottom;background-size:100% auto;
+  transform:scaleY(-1);transform-origin:center center;
+  filter:blur(5px) saturate(.62) brightness(.44);
+  -webkit-mask-image:linear-gradient(180deg,transparent 0%,rgba(0,0,0,.16) 38%,rgba(0,0,0,.50) 100%);
+          mask-image:linear-gradient(180deg,transparent 0%,rgba(0,0,0,.16) 38%,rgba(0,0,0,.50) 100%)}
+
+/* ---------- BENEFIT CARDS (2x2, wide-short, icon-left) ---------- */
+.grid2{position:absolute;left:var(--edge);right:var(--edge);top:378px;bottom:168px;
+  display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:26px}
+.card{display:flex;align-items:center;gap:26px;padding:34px 36px;border-radius:14px;
+  background:var(--card-fill);border:1px solid var(--card-border)}
+.card .ico{width:56px;height:56px;flex:none}
+.card .body{display:flex;flex-direction:column;gap:9px;min-width:0}
+.card .t{font-family:"Montserrat";font-weight:800;font-size:30px;line-height:1.15;
+  text-transform:uppercase;color:var(--white);letter-spacing:.3px}
+.card .d{font-family:"Poppins";font-weight:400;font-size:21px;line-height:1.5;color:var(--card-desc);margin:0}
+
+/* ---------- SPEC CHIPS (3x2) ---------- */
+.chips{position:absolute;left:var(--edge);top:376px;width:1090px;
+  display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.chip{padding:26px 24px;border-radius:12px;background:var(--card-fill);border:1px solid var(--card-border)}
+.chip .v{font-family:"Montserrat";font-weight:900;font-size:44px;line-height:1.05;color:var(--white);white-space:nowrap}
+.chip .v em{font-style:normal;color:var(--accent)}
+.chip .l{font-family:"Poppins";font-weight:500;font-size:16px;letter-spacing:.5px;
+  text-transform:uppercase;color:#a9a9a9;margin-top:9px}
+.srcline{position:absolute;left:var(--edge);top:726px;width:1090px;font-family:"Poppins";font-weight:400;
+  font-size:15.5px;line-height:1.5;color:rgba(255,255,255,.40)}
+
+/* ---------- APPLICATION TILES + PILLS ---------- */
+.tiles{position:absolute;left:var(--edge);right:var(--edge);top:348px;height:424px;
+  display:grid;grid-template-columns:repeat(3,1fr);gap:24px}
+.tile{position:relative;border-radius:14px;overflow:hidden;border:1px solid var(--card-border)}
+.tile .gloss{position:absolute;left:0;right:0;top:0;height:62%;
+  background:radial-gradient(78% 120% at 50% 0%, rgba(255,246,236,.20) 0%, rgba(255,236,220,.06) 42%, transparent 74%)}
+.tile .plate{position:absolute;inset:0}
+.tile .shade{position:absolute;inset:0;
+  background:linear-gradient(180deg,rgba(10,10,10,.62) 0%,rgba(10,10,10,.26) 18%,rgba(10,10,10,.10) 30%,rgba(10,10,10,.44) 56%,rgba(10,10,10,.90) 100%)}
+.tile .n{position:absolute;top:22px;left:24px;font-family:"Montserrat";font-weight:900;
+  font-size:37px;color:var(--accent);line-height:1}
+.tile .cap{position:absolute;left:24px;right:24px;bottom:22px}
+.tile .ct{font-family:"Montserrat";font-weight:800;font-size:25px;text-transform:uppercase;
+  color:var(--white);letter-spacing:.4px;margin-bottom:8px}
+.tile .cd{font-family:"Poppins";font-weight:400;font-size:17.5px;line-height:1.42;color:var(--card-desc);margin:0}
+.tile .tinpack{position:absolute;right:18px;top:52px;height:176px}
+.tile .tinpack img{display:block;height:100%;width:auto;filter:drop-shadow(0 16px 24px rgba(0,0,0,.6))}
+.pills{position:absolute;left:var(--edge);right:var(--edge);top:816px;display:flex;flex-wrap:wrap;gap:13px}
+.pill{padding:12px 22px;border-radius:100px;background:rgba(255,255,255,.06);
+  border:1px solid var(--card-border);font-family:"Poppins";font-weight:500;font-size:18px;
+  letter-spacing:.5px;color:var(--pill-text);white-space:nowrap}
+
+/* ---------- END CARD ---------- */
+.endcard{position:absolute;inset:0;background:var(--white);overflow:hidden}
+.rings{position:absolute;top:-210px;right:-210px;width:760px;height:760px}
+.rings circle{fill:none;stroke:#dcdcdc;stroke-width:1.5}
+.endinner{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;
+  justify-content:center;text-align:center}
+.dots{display:flex;gap:11px;margin-bottom:34px}
+.dots i{display:block;width:11px;height:11px;background:var(--brand);transform:rotate(45deg)}
+.endname{margin:0;font-family:"Montserrat";font-weight:900;font-size:105px;line-height:1;
+  text-transform:uppercase;letter-spacing:.5px;color:var(--brand)}
+.endtag{margin-top:26px;font-family:"Poppins";font-weight:500;font-size:22px;letter-spacing:6px;
+  text-transform:uppercase;color:var(--end-tagline)}
+.endbox{margin-top:42px;padding:17px 34px;border:1.5px solid rgba(26,26,26,.20);
+  font-family:"Poppins";font-weight:500;font-size:27px;color:var(--ink)}
+.enddiv{margin-top:30px;width:120px;height:4px;background:var(--brand);transform-origin:center}
+.endcap{margin-top:26px;font-family:"Poppins";font-weight:400;font-size:20px;color:#6f6f6f;letter-spacing:.3px}
+
+/* ---------- Frame 2 failure markers ---------- */
+.marks{display:flex;gap:44px;margin-top:6px}
+.mark{display:flex;align-items:flex-start;gap:13px;max-width:290px}
+.mark .mn{font-family:"Montserrat";font-weight:900;font-size:20px;color:var(--accent);line-height:1.35;flex:none}
+.mark .mt{font-family:"Poppins";font-weight:500;font-size:18px;line-height:1.35;color:#b6b6b6}
+
+/* ---------- Frame 3 stat ---------- */
+.statrow{display:flex;align-items:baseline;gap:22px}
+.statnum{font-family:"Montserrat";font-weight:900;font-size:190px;line-height:1.02;
+  color:var(--accent);letter-spacing:-1px;display:block}
+.statunit{font-family:"Montserrat";font-weight:900;font-size:48px;line-height:1.1;
+  text-transform:uppercase;color:var(--white);display:block}
+.statlabel{font-family:"Poppins";font-weight:500;font-size:20px;letter-spacing:2.6px;
+  text-transform:uppercase;color:#a9a9a9}
+
+        #hf-02-problem-root { position: absolute; inset: 0; }
+      </style>
+      <div id="hf-02-problem-root" data-composition-id="02-problem" data-width="1920" data-height="1080">
+        <div class="stage">
+          <div class="ground-wrap" data-layout-allow-overflow><div class="ground matte" style="--horizon:52%;--bloom-x:72%;--bloom-y:46%;"><div class="backdrop"></div><div class="haze"></div><div class="floor" data-layout-allow-overflow></div><div class="sheen"></div><div class="horizon"></div><div class="grain"></div></div></div>
+          <div class="scrim"></div>
+          <div class="logo"><svg class="star" viewBox="0 0 48 48" aria-hidden="true"><path fill="#C1272D" d="M24 2.5l6.18 14.02 15.24 1.4-11.5 10.1 3.4 14.93L24 35.2 10.68 42.95l3.4-14.93-11.5-10.1 15.24-1.4z"/></svg><div class="bar"></div><div class="txt"><div class="wm">STARSHIELD</div><div class="sub">Smart Paints &amp; Coatings</div></div></div>
+          <div class="col" style="width:1180px;max-width:1180px;">
+            <div class="eyebrow">The Problem</div>
+            <h2 style="margin-top:26px;">
+              <span class="hl-line" style="display:block;">Industrial Floors</span>
+              <span class="hl-line" style="display:block;"><span class="hl">Fail</span> From The</span>
+              <span class="hl-line" style="display:block;">Surface Down</span>
+            </h2>
+            <div class="rule" style="margin-top:32px;"></div>
+            <p class="support" style="margin-top:28px;max-width:900px;">Oils, acids and solvents degrade the slab, heavy traffic cracks it, and porous surfaces harbour the bacteria that fail a compliance audit.</p>
+            <div class="marks" style="margin-top:34px;">
+              <div class="mark"><div class="mn">01</div><div class="mt">Chemical corrosion</div></div>
+              <div class="mark"><div class="mn">02</div><div class="mt">Heavy load damage</div></div>
+              <div class="mark"><div class="mn">03</div><div class="mt">Contamination risk</div></div>
+            </div>
+          </div>
+          <div class="tickwrap"><div class="tickline"></div><div class="ticks"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div>
+        </div>
+      </div>
+      <script>
+        (function () {
+          var R = document.getElementById("hf-02-problem-root");
+          var q = function (s) { return R.querySelector(s); };
+          var qa = function (s) { return Array.prototype.slice.call(R.querySelectorAll(s)); };
+          var tl = gsap.timeline({ paused: true });
+
+          tl.fromTo(q(".ground-wrap"), { scale: 1 }, { scale: 1.08, duration: 5, ease: "none" }, 0);
+          tl.fromTo(q(".stage"), { opacity: 0 }, { opacity: 1, duration: 0.45, ease: "power2.out" }, 0);
+          tl.fromTo(q(".eyebrow"), { opacity: 0, y: 16 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.2);
+          tl.fromTo(qa(".hl-line"), { opacity: 0, y: 30 }, { opacity: 1, y: 0, duration: 0.6, ease: "power3.out", stagger: 0.09 }, 0.35);
+          tl.fromTo(q(".rule"), { scaleX: 0 }, { scaleX: 1, duration: 0.45, ease: "power2.out" }, 0.8);
+          tl.fromTo(q(".support"), { opacity: 0, y: 20 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.9);
+          tl.fromTo(q(".tickline"), { scaleX: 0, opacity: 0 }, { scaleX: 1, opacity: 1, duration: 0.7, ease: "power2.out" }, 1.25);
+          tl.fromTo(qa(".ticks i"), { opacity: 0, y: 10 }, { opacity: 0.55, y: 0, duration: 0.4, ease: "power3.out", stagger: 0.018 }, 1.4);
+          tl.fromTo(q(".logo"), { opacity: 0, y: -10 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out" }, 0.45);
+          tl.fromTo(qa(".mark"), { opacity: 0, y: 22 }, { opacity: 1, y: 0, duration: 0.5, ease: "power3.out", stagger: 0.14 }, 1.5);
+          window.__timelines["02-problem"] = tl;
+        })();
+      </script>
+    </template>
+  </body>
+</html>

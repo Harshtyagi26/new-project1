@@ -1,0 +1,391 @@
+================================================================
+STARSHIELD PRODUCT VIDEO — STYLE GUIDE
+================================================================
+Internal Design Reference
+Starshield Technologies Pvt. Ltd. — v1.1 — Sept 2026
+
+A product-agnostic visual language, motion system, and production
+rulebook for the Starshield promo-video house style — for briefing
+an editor, designer, or AI tool to build a video for ANY Starshield
+product in this same look.
+
+
+----------------------------------------------------------------
+01 — OVERVIEW
+----------------------------------------------------------------
+
+WHAT THIS STYLE IS
+
+A short, punchy vertical-of-facts product promo: dark, cinematic
+photography with a bold editorial type system laid over it. The
+template below is deliberately product-neutral — plug in a new
+product's name, palette hue, and TDS-sourced facts, and the
+structure holds. Every claim on screen must trace to that product's
+own Technical Data Sheet (TDS) or official spec — no invented
+stats, no borrowed competitor numbers presented as fact without
+saying so.
+
+FORMAT & SPECS
+
+  Property               Value
+  ----------------------------------------------------------
+  Canvas                 1920 x 1080 (16:9)
+  Frame rate              30 fps
+  Codec / container       H.264 / MP4
+  Scene count             6-7 scenes
+  Per-scene duration      5-7s
+  Total runtime           33-40s
+  Build approach          HTML/CSS + a timeline-based animation
+                          library (e.g. GSAP), rendered to MP4 —
+                          any NLE or motion tool can reproduce the
+                          same visual result frame-for-frame
+
+THE SCENE-FLOW TEMPLATE
+
+  1. HERO (5s)
+        -> 2. WHY IT MATTERS (5s)
+              -> 3. BIG STAT (5s)
+                    -> 4. BENEFITS GRID (6-7s)
+                          -> 5. HOW TO APPLY (6s)
+                                -> 6. END CARD (6s)
+
+  A 7th scene (a second benefits pass, or a certifications/specs
+  beat) can be inserted between 4 and 5 when there is more verified
+  content than one grid can hold.
+
+  NON-NEGOTIABLE RULE: every number, claim, and benefit statement
+  must be sourced to the product's own TDS or official spec sheet.
+  If outside content is added anyway (a different source, a
+  competitor figure, a general web claim), flag it to the client as
+  non-TDS BEFORE it goes in — never blend sourced and unsourced
+  claims silently.
+
+
+----------------------------------------------------------------
+02 — COLOR SYSTEMS
+----------------------------------------------------------------
+
+TWO PALETTE VARIANTS, ONE STRUCTURE
+
+Every video uses the same color ROLES (background / accent /
+highlight / body-text / surface) — only the hue changes per
+product or per brand requirement. Pick one variant per video;
+don't mix them.
+
+VARIANT A — "EMBER" (product-led palette)
+Use when the product's own mood or category should lead the
+palette (a warm/industrial/hazard-adjacent product, for example)
+rather than the corporate identity. Swap the accent hues for
+whatever suits the new product — the ROLES stay fixed.
+
+  Token              Hex                              Use
+  ------------------------------------------------------------------------------
+  BG Charcoal        #151210 -> #1c1512 -> #120e0c     scene background gradient base
+  Accent / Rule       #C1272D                           rule/divider, end-card headline
+  Highlight           #E8641E                           eyebrow label, highlighted word, icon fill
+  Tick-motif top      #F2A33D                           tick-motif gradient top stop
+  Cream               #F4EEE2                           end-card background
+  Ink                 #241C18                           end-card body text
+
+VARIANT B — "BRAND RED / WHITE / BLACK"
+Use when the corporate logo palette must lead — matches the
+STARSHIELD wordmark exactly (red star + red wordmark, black
+subtext, white ground). DEFAULT TO THIS VARIANT whenever brand
+consistency across the product line matters more than per-product
+mood — it works for any product without further tuning.
+
+  Token              Hex          Use
+  ------------------------------------------------------------------------------
+  Near-Black          #0a0a0a     base background, root/body
+  Accent Red          #E5484D     eyebrow, highlighted word, icon fill
+                                  (bright enough for AA contrast on near-black)
+  Brand Red           #C1272D     divider rule, end-card headline (on white,
+                                  true logo red)
+  Brand Red Dark      #8C1B20     gradient bottom-stop for tick motif
+  Pure White          #FFFFFF     end-card background
+  Ink                 #1A1A1A     end-card body text
+
+NEUTRAL TEXT TONES (both variants)
+
+  Token                            Hex                    Use
+  ------------------------------------------------------------------------------
+  Support/body text on dark        #dcdcdc - #cfc7bd       paragraph copy over photography
+  Benefit card description         #c9c9c9 - #b9b0a5       secondary text inside cards, dimmer than support
+  Pill / tag text                  #eaeaea - #e7e1d8       small pill labels
+  End-card tagline                 #6b6b6b - #8a8074       muted 3-word tagline under the headline
+
+COLOR USAGE RULES
+  - Eyebrow label + the one highlighted word in a headline always
+    share the same accent color
+  - Body headline text is plain white (dark scenes) or Ink
+    (white/cream end card) — never the accent color
+  - Divider "rule" bar under a headline uses the deeper/true brand
+    color, not the bright accent
+  - Never place a color straight from the palette against a
+    background photo without a scrim (see section 5) — accent-on-
+    photo without a dark gradient underneath fails contrast
+
+
+----------------------------------------------------------------
+03 — TYPOGRAPHY
+----------------------------------------------------------------
+
+TWO TYPEFACES, FIXED ROLES
+
+Google Fonts: MONTSERRAT (headlines — weight 900, always uppercase)
+and POPPINS (everything else — labels, body, UI chrome). Never
+substitute or mix in a third family.
+
+  Element                    Specimen (placeholder)                         Spec
+  ------------------------------------------------------------------------------------------------------------
+  Hero headline               "PRODUCT NAME"                                Montserrat 900, uppercase
+                                                                              88-112px, line-height 1.04,
+                                                                              letter-spacing 0.5px
+  Secondary headline          "Your One-Line Hook."                         Montserrat 900, 54-76px
+  Big stat number              "97%"                                        Montserrat 900, 170-200px,
+                                                                              color = accent
+  Eyebrow label                "PRODUCT CATEGORY / POSITIONING LINE"        Poppins 600, uppercase, 19-22px,
+                                                                              letter-spacing 5px, + 34px
+                                                                              accent-color tick bar before text
+  Support / body               "One sentence stating the core promise       Poppins 400, 24-28px,
+                                of the product."                            line-height 1.5-1.6
+  Benefit card title            "KEY BENEFIT"                                Montserrat 800, uppercase, 25-32px
+  Benefit card body             "One or two sentences explaining this       Poppins 400, 18-22px,
+                                benefit, pulled from the product's own       line-height 1.5-1.6
+                                spec sheet."
+
+SIZING CHEAT-SHEET
+
+  Element                              Size range
+  ------------------------------------------------
+  Hero headline (1-2 words/lines)       88-112px
+  Secondary headline (short sentence)   54-76px
+  Big stat number                       170-200px
+  Big stat unit label                   44-52px
+  Eyebrow label                         19-22px
+  Support paragraph                     24-28px
+  End-card headline                     92-112px
+  End-card boxed subhead                24-28px
+
+
+----------------------------------------------------------------
+04 — LAYOUT PATTERNS
+----------------------------------------------------------------
+
+PER-SCENE COMPOSITION RULES
+
+A. TEXT-LED SCENES (Hero / Why-it-matters / Big stat)
+   - Eyebrow at left:120px
+   - Headline below it
+   - Rule/divider (120x5px)
+   - Support text (max-width ~920-1000px)
+   - Logo reserved top-right corner (empty)
+   - Product image reserved right side (~35-40% width, empty)
+   - Baseline tick motif along the bottom
+   Left-aligned text column (starts x:120px). The right ~40% of
+   frame stays clear for logo + product photo — never fill this
+   zone with other content, even after copy is enlarged.
+
+B. BENEFITS GRID
+   Card count decides the grid, not the other way around — pick
+   the shape that fills the frame with NO DEAD SPACE:
+
+     Card count    Layout                          Card style
+     ------------------------------------------------------------------
+     2             2-up row                         Wide cards, icon+text
+                                                     side-by-side
+     3             1x3 row (flex, each flex:1)       Tall cards, icon on
+                                                     top, text stacked below
+     4             2x2 grid                          Wide-short cards,
+                                                     icon+text side-by-side
+
+   Rule of thumb: icon-top/text-stacked columns need a tall cell
+   (row layout); icon-left/text-right rows need a short-wide cell
+   (grid layout). Match the internal card layout to the cell's
+   aspect ratio or you'll either overflow the card or leave a
+   visible empty gap at the bottom.
+
+C. APPLICATION / "HOW-TO" TILES
+   - Eyebrow + headline at top
+   - 2-3 numbered photo tiles (step-num top-left, caption bottom,
+     dark gradient overlay on the photo for legibility)
+   - A wrapped row of pill-shaped spec tags below
+
+D. END CARD
+   - Logo reserved top-right (empty)
+   - Decorative concentric circles bleeding off the corner
+   - "diamond" dots mark, centered
+   - Product name (accent color, centered)
+   - 3-word tagline
+   - Boxed subhead + divider + caption
+   Centered composition on white/cream. No baseline tick motif here
+   — that motif is exclusive to dark scenes.
+
+
+----------------------------------------------------------------
+05 — RECURRING MOTIFS
+----------------------------------------------------------------
+
+BASELINE TICK MOTIF
+Every dark scene (never the end card) ends in: a 2px horizontal
+gradient line (transparent -> accent -> transparent, fading in from
+both edges) sitting 56px above the bottom edge, plus a row of
+~18-24 small vertical tick marks (10px wide, 16px tall, gradient
+fill, rounded top corners, ~34px gutter, 72px side padding, 55%
+opacity) directly under it. This is the single most identifying
+"brand device" across every video — keep it even when the rest of
+the palette changes.
+
+PHOTO SCRIMS
+Every full-bleed photo background gets a two-layer gradient scrim
+on top, tuned per scene, always in this shape:
+
+  Layer   Direction                    Purpose
+  ------------------------------------------------------------------------
+  1       100deg (diagonal, L->R)      Darkens the left ~70% where text
+                                       sits (opacity ~0.9 near the text,
+                                       fading to ~0.2 on the right where
+                                       the photo/product shows through)
+  2       180deg (top->bottom)         Light top vignette (~0.15) building
+                                       to a stronger bottom band (~0.55) so
+                                       the baseline tick motif always reads
+                                       clearly
+
+Never use a flat single-color overlay — it reads as a colored box,
+not a graded scrim.
+
+BACKGROUND "KEN BURNS" DRIFT
+Every photo background sits in a wrapper sized 5% larger than the
+frame (inset:-5%) and is scaled from 1.0 -> 1.08 across the full
+scene duration, linear ease. This is the only place a slow,
+continuous, non-eased animation is used — everywhere else motion
+eases in and settles.
+
+DECORATIVE END-CARD CIRCLES
+Three concentric ring outlines (radius 170/255/340px, 1.5px stroke,
+very light neutral — #e5e5e5 in the brand variant), bleeding off
+the top-right corner of the end card only. Purely decorative; never
+on dark scenes.
+
+RESERVED SPACE — LOGO & PRODUCT PHOTO
+Do NOT draw a placeholder box, dashed border, or "LOGO HERE" label
+in the deliverable. Reserve the space by simply not putting other
+content there: top-right corner (~230x64px) on every scene, and the
+right ~35-40% of frame width on Hero/Why-it-matters/Big-stat scenes
+for a product photo. The client drops in the real logo and product
+shot afterward.
+
+
+----------------------------------------------------------------
+06 — MOTION SYSTEM
+----------------------------------------------------------------
+
+TIMING, EASING, AND SEQUENCING
+
+Built as one paused timeline per video (seek-safe, deterministic —
+no random values, no real-time clocks). The same handful of moves
+are reused on every element; only the start-offset changes per
+scene. Times below are seconds RELATIVE TO EACH SCENE'S OWN START.
+
+  Move                        Property -> value          Duration      Ease              Typical offset
+  ------------------------------------------------------------------------------------------------------------
+  Background drift            scale 1 -> 1.08             full scene    none (linear)     0.0s
+                                                          length
+  Eyebrow fade-up              opacity 0->1, y 16->0       0.5s          power3.out        +0.2s
+  Headline fade-up             opacity 0->1, y 30->0       0.6s          power3.out        +0.35s
+  Divider rule grow            scaleX 0->1 (transform-     0.45s         power2.out        +0.8s
+                               origin: left)
+  Support text fade-up         opacity 0->1, y 20->0       0.5s          power3.out        +0.9s
+  Big stat number pop          opacity 0->1, scale         0.7s          back.out(1.4)     with headline
+                               0.85->1
+  Product photo slide-in       opacity 0->1, x 36->0       0.6s          power3.out        +0.3-0.35s
+  Card / tile / pill stagger   opacity 0->1, y 28-30->0    0.55s (0.4s   power3.out        items offset
+                                                          for pills)                      0.08-0.16s apart
+  End-card sequence            dots -> headline ->         0.4-0.6s      power3.out        staggered
+                               tagline -> box, each                     each                0.2-0.5s apart
+                               fade-up
+
+HARD RULES
+  - Never animate a CSS transform that was also set as a static
+    inline style on the same element — set the "before" state
+    inside the tween itself
+  - Never loop/repeat indefinitely — every tween is a finite,
+    one-shot entrance; nothing idles or pulses forever
+  - Background drift is the one deliberately linear (non-eased)
+    move; everything else uses an "out" ease so it settles rather
+    than stopping abruptly
+  - A big number always gets the spring pop (back.out); plain text
+    never does
+
+
+----------------------------------------------------------------
+07 — CONTENT & COPY RULES
+----------------------------------------------------------------
+
+WHAT GOES ON SCREEN, AND WHERE IT COMES FROM
+
+DO:
+  - Pull every stat, benefit, and application fact from the
+    product's official TDS/spec sheet
+  - Paraphrase for punch (headlines are copywriting, not literal
+    quotes) — but never change the meaning
+  - Keep one scene = one idea: a single eyebrow, one headline, one
+    support line
+  - Cap it at what fits — 6-7 scenes, curate down rather than cram
+    in everything the source contains
+  - Name a source conflict out loud before adding non-TDS content
+    (a different product's numbers, a generic web claim)
+
+DON'T:
+  - Invent a statistic, certification, or duration not present in
+    the source document
+  - Include a generic certification/registration wall (accelerator
+    badges, unrelated agency logos) — it's noise, not proof, unless
+    directly relevant to the claim on screen
+  - Silently blend a competitor's or a general web-search's numbers
+    into the product's own claims
+  - Fabricate an application process (e.g. "3-step system") when
+    the source only lists tools, not steps
+
+END-CARD FORMULA
+Every video closes on the same shape:
+  diamond-dots mark -> Product Name (accent color, ~100px) ->
+  a 3-word tagline in the pattern "VERB . VERB . VERB" ->
+  a boxed one-line category descriptor -> a short use-case caption.
+Logo space stays reserved and empty.
+
+
+----------------------------------------------------------------
+08 — HANDOFF CHECKLIST
+----------------------------------------------------------------
+
+BEFORE YOU CALL IT DONE
+
+  [ ] Every on-screen claim traces to the new product's own
+      TDS/spec, or is explicitly flagged to the client as non-TDS
+  [ ] Palette matches the brief: product-led "Ember"-style or
+      corporate "Red/White/Black" — not a mix
+  [ ] Baseline tick + gradient line present on every dark scene,
+      absent on the end card
+  [ ] Logo space (top-right, all scenes) and product-photo space
+      (right ~35-40%, text-led scenes) are empty — no placeholder
+      box, no other content drifted into them
+  [ ] Benefits grid shape matches card count (2-up / 1x3 / 2x2)
+      with no empty space at the bottom of any card
+  [ ] End card follows the mark -> name -> 3-word tagline -> boxed
+      descriptor -> caption formula
+  [ ] Background photos are real, sharp, licensed/free-to-use
+      stock — never a flat color standing in for photography
+  [ ] All type is Montserrat (headlines, 900, uppercase) + Poppins
+      (everything else) — no third family
+  [ ] Motion: entrances only, no infinite loops, background drift
+      is the only linear-eased move
+
+Prepared as a reusable internal reference for briefing other
+tools/editors on the Starshield promo-video house style. Reproduce
+the roles and rules above for the new product; hue and copy adapt
+per product and per its own spec sheet.
+
+================================================================
+END OF DOCUMENT
+================================================================

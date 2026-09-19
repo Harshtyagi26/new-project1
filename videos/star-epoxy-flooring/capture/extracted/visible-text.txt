@@ -1,0 +1,377 @@
+# Star Epoxy Flooring — Industrial — Complete Product Information
+
+> Compiled from starshieldpaints.com on 19 September 2026.
+> Everything below is verbatim or directly sourced from the live website. Nothing is invented.
+
+---
+
+## 1. Quick Reference
+
+| Field | Value |
+|---|---|
+| **Product name** | Star Epoxy Flooring (catalogue: *Star Epoxy Flooring Industrial*; page hero asset is named `hero_image_star_epoxy_flooring_industrial`) |
+| **Category positioning** | Industrial Epoxy Flooring — high-performance nanotech epoxy coating |
+| **Chemistry** | Two-component (Part A + Part B), **2:1 mix ratio**, nanotech-modified epoxy |
+| **Vendor** | StarShield- Smart Paints & Coatings |
+| **Shopify product type** | Paints and Technology |
+| **Tags** | starshield, paints and Technology |
+| **Product handle** | `star-epoxy-flooring` |
+| **First published** | 30 November 2024, 14:26 IST |
+| **Stock status** | In Stock — rated 5.0 (1 review) |
+| **Technical Data Sheet (TDS)** | **AVAILABLE** — full data in §8, PDF saved in this folder |
+| **MSDS** | Not published |
+
+### URLs
+
+| Page | URL |
+|---|---|
+| Shopify product page (buy) | https://starshieldpaints.com/products/star-epoxy-flooring |
+| Marketing landing page | https://starshieldpaints.com/pages/star-epoxy-flooring |
+| TDS (PDF) | https://cdn.shopify.com/s/files/1/0672/5048/7524/files/Star_Epoxy_Flooring_Technical_Data_sheet_320d6d7e-e759-44b5-86ae-00534c8f96ce.pdf?v=1789380255 |
+| Floor Coatings category page | https://starshieldpaints.com/pages/floor-coating-products-for-all-surfaces |
+| Site-wide TDS library | https://starshieldpaints.com/pages/tds |
+
+**Page meta:** title tag = `Epoxy for Floor – Star Epoxy Flooring by Starshield Paints`; meta description = "Epoxy floor coating made strong – Star Epoxy Flooring by Starshield Paints offers the best epoxy for floor durability, shine, and protection."
+
+> Note: `/pages/star-epoxy-flooring-industrial` returns **404** — the "Industrial" variant lives at `/pages/star-epoxy-flooring`.
+
+---
+
+## 2. Pricing & Pack Sizes (live on site)
+
+### Main product — Star Epoxy Flooring
+
+| Volume | SKU | MRP (compare-at) | Selling price | Note |
+|---|---|---|---|---|
+| 1.5 LTR | STAREPOXYFLOORING1.5LTR | Rs. 990.00 | **Rs. 790.00** | 20% off |
+| 15 LTR | STAREPOXYFLOORING15LTR | Rs. 4,390.00 | **Rs. 9,490.00** | ⚠️ **PRICING ERROR — selling price is HIGHER than MRP** |
+| 30 LTR | STAREPOXYFLOORING30LTR | Rs. 16,990.00 | **Rs. 16,990.00** | ⚠️ No discount — MRP equals selling price |
+
+> ⚠️ **Critical storefront bug:** the 15 LTR variant shows a compare-at price of Rs. 4,390 against a selling price of Rs. 9,490. Shopify will render this as a "sale" badge on a product that appears to cost more than its own MRP, and it makes the 15 L pack look worse value than 2× the 1.5 L pack. The 30 LTR variant has compare-at equal to price, so it shows a 0% discount where the rest of the range shows 44–45%. Both need fixing.
+
+### Related system kits (sold separately)
+
+| Kit | Volume | SKU | MRP | Price |
+|---|---|---|---|---|
+| **Star Epoxy Flooring Primer Kit** | 12 Ltr | STAREPOXYFLOORINGPRIMERKIT12LTR | Rs. 8,290 | **Rs. 4,590** |
+| | 24 Ltr | STAREPOXYFLOORINGPRIMERKIT24LTR | Rs. 16,090 | **Rs. 8,990** |
+| **Star Epoxy Flooring Screed Kit** | 45 Ltr | STAREPOXYFLOORINGSCREEDKIT45LTR | Rs. 17,290 | **Rs. 12,990** |
+| | 90 Ltr | STAREPOXYFLOORINGSCREEDKIT90LTR | Rs. 34,190 | **Rs. 18,990** |
+| **Star Epoxy Flooring Top Coat Kit** | 25 Ltr | STAREPOXYFLOORINGTOPCOATKIT25LTR | Rs. 10,990 | **Rs. 6,090** |
+| | 50 Ltr | STAREPOXYFLOORINGTOPCOATKIT50LTR | Rs. 21,590 | **Rs. 11,990** |
+
+Further finish kits in the same family: **Clear / 3D Top Coat Kit**, **Metallic Top Coat Kit**, **Texture Top Coat Kit**.
+
+All kits: product type and tags are **blank**, titles contain a **stray tab character** (`Star\tEpoxy Flooring Primer Kit`), product descriptions are **empty**, and shipping weight is **0.0 kg**.
+
+### Cost per covered area (derived from TDS coverage of 40–50 sq ft/L @ 250 µm)
+
+| Pack | Price | Coverage | Approx. cost/sq ft |
+|---|---|---|---|
+| 1.5 LTR | Rs. 790 | 60–75 sq ft | Rs. 11–13 |
+| 30 LTR | Rs. 16,990 | 1,200–1,500 sq ft | Rs. 11–14 |
+
+*(Derived figure, not published by StarShield. Excludes primer/screed. Coverage varies with surface texture.)*
+
+---
+
+## 3. Positioning & Headline Copy
+
+**Eyebrow:** Industrial Epoxy Flooring
+**H1:** Star Epoxy Flooring
+**Sub-headline:** Next-Generation Floor Protection Technology
+**Strapline:** Nanotechnology Formula | Chemical Resistant | Seamless Finish
+**Section header:** Star Epoxy Flooring — Industrial-Grade Nanotech Coating
+
+> Star Epoxy Flooring represents the pinnacle of industrial flooring technology. Our proprietary nanotechnology formulation creates an impermeable, cross-linked polymer surface that withstands extreme conditions while maintaining an aesthetically pleasing finish, engineered for industrial, commercial, and residential applications.
+>
+> This 2-component epoxy system provides superior adhesion to concrete, metal, wood, and stone substrates with a seamless application that eliminates joints and seams where contaminants can accumulate.
+
+**TDS description (verbatim):**
+> Star Epoxy Flooring is an advanced epoxy coating system specifically formulated to provide exceptional water resistance, superior penetration, and long-lasting protection for various types of floors. It provides a hard-wearing, chemical, and abrasion-resistant floor finish. It is ideally suited for use in wet areas where a high degree of resistance to chemicals, oils, and grease is required.
+>
+> TDS strapline: *Water-resistant Two component Superior Penetration high epoxy for floors*
+
+### Headline technical specifications (shown as a spec strip on the page)
+
+| Spec | Value |
+|---|---|
+| **Coverage** | 40–50 sq ft/L |
+| **Film Thickness** | 500 μm – 2 mm |
+| **Temperature Range** | −20 °C to 120 °C |
+
+---
+
+## 4. Areas of Application
+
+### From the landing page (6 sectors)
+
+1. Manufacturing & Industrial
+2. Food & Beverage
+3. Healthcare & Pharma
+4. Logistics & Warehousing
+5. Automotive & Aviation
+6. Commercial & Retail
+
+### From the TDS (9 areas)
+
+Warehouses / Chemical & Pharmaceutical industry / Automobile & Engineering units / Laboratories & Hospitals / Schools & Institutions / Food Processing Industry / Aviation (hangars) / Recreational areas / Metal & Steel surfaces
+
+### From the product page
+
+- **Residential:** garages, basements, patios
+- **Commercial:** retail stores, offices, showrooms
+- **Industrial:** factories, warehouses, manufacturing plants
+
+**Substrates:** concrete, tiles, wood, metal, stone, and previously coated surfaces.
+Category page use-case line: *Manufacturing · Pharma · Warehouses* (flagged **TOP PICK**).
+Catalogue descriptor: **Star Epoxy Flooring Industrial**.
+
+---
+
+## 5. Key Performance Benefits
+
+### Landing page — 6 advanced features
+
+| Feature | Site description |
+|---|---|
+| **Nanotech Formulation** | Proprietary nanotechnology creates a denser molecular structure with enhanced chemical resistance, hardness, and adhesion properties, setting new industry standards for floor protection. |
+| **Seamless Application** | Creates a continuous, joint-free surface that eliminates dirt traps, simplifies cleaning, and prevents moisture penetration — ideal for food, pharma, and healthcare environments. |
+| **Chemical Resistance** | Resists oils, acids, solvents, alkalis, and other industrial chemicals commonly found in demanding manufacturing and processing environments. |
+| **Superior Adhesion** | Advanced bonding technology ensures secure adhesion to concrete, metal, wood, stone, and existing surfaces for a durable, long-lasting installation. |
+| **Thermal Stability** | Maintains integrity across temperature ranges from −20 °C to 120 °C, preventing cracking or delamination in demanding thermal environments. |
+| **Rapid Return to Service** | Quick curing times mean facilities are ready for full operational loads sooner, minimizing costly production downtime. |
+
+### TDS — 8 benefits
+
+| Benefit | TDS wording |
+|---|---|
+| **Superior Bonding** | Because of its low viscosity, Star Epoxy Flooring penetrates deeply into the surface, ensuring excellent adhesion and durability. |
+| **Durability** | Provides a durable protective layer for floors, extending their lifespan, also reducing maintenance costs and enhancing the overall appearance. |
+| **Easy to clean & maintain** | The smooth, seamless surface is easy to clean and does not harbor dirt, bacteria, or germs. |
+| **Stain & Abrasion Resistance** | The cured coating resists stains, wear and abrasion, making it ideal for high-traffic areas, machinery, and heavy loads, while maintaining the integrity of the floor surface over time. |
+| **Chemical Resistance** | It withstands exposure to chemicals, oils, and solvents commonly found in industrial and commercial environments. |
+| **Enhance Aesthetics** | Creates a uniform, professional-looking floor finish. Available in various colors to match design preferences. |
+| **Enhanced Safety** | The seamless slip resistant finish prevents the risks of trips and falls, contributing to a safer work environment. |
+| **Water Resistance** | Utilizes advanced nano-based technology to create a robust barrier against water, preventing moisture infiltration and protecting the underlying substrate. |
+
+### Product page — additional claims
+
+- **Customizable Designs** — available in a variety of colors and finishes.
+- **Cost-Effective** — higher initial installation cost than some flooring options, but durability and low maintenance make it a cost-effective long-term solution.
+- **Safety** — can be customized with anti-slip properties to reduce accident risk in wet or oily conditions.
+- **Improved Aesthetic Appeal** — polished, glossy finish.
+
+---
+
+## 6. The Problem It Solves (site framing)
+
+**01 — Chemical Corrosion**
+Industrial floors degrade rapidly when exposed to oils, acids, solvents, and cleaning chemicals, creating hazardous surfaces that require frequent repairs.
+
+**02 — Heavy Load Damage**
+Constant heavy machinery traffic, impact loads, and abrasion cause cracks, chips, and surface deterioration that compromise structural integrity and safety.
+
+**03 — Contamination Risks**
+Porous surfaces in food processing, pharmaceutical, and healthcare facilities harbor bacteria and pathogens, risking compliance violations and product contamination.
+
+---
+
+## 7. Method of Application
+
+### Step 1 — Surface Preparation (from TDS)
+- A clean, sound surface with a good mechanical key is the goal of surface preparation. Dust, plaster, oil, paint, grease, corrosion deposits, and any other harmful materials should all be removed from substrates using a **wire brush, coarse sandpaper or acid etching**.
+- The uneven surface should be made smooth or semi-smooth by **scabbling, needle gunning, or grit blasting**.
+- Check for cracks in the substrate and fill with **StarShield Putty or Star Water Proof Interior**.
+- There must not be any water residue on the surface of the substrate.
+
+*(Landing page version: "Mechanically prepare the surface by grinding or shot blasting to achieve the proper profile for adhesion.")*
+
+### Step 2 — Mixing (from TDS)
+- Star Epoxy Flooring shall be **left open for 10 minutes after initial unsealing**.
+- Prior to mixing, shake **Part A and Part B** until homogenous, then pour both parts into the mixing container in the ratio **2:1** and thoroughly mix and stir for at least **3–4 minutes** using a slow speed (**300–400 RPM**) drill machine attached with a mixing paddle.
+- **Retempering with water or solvent should not be done.** Make sure the surface is dry before application. **Keep stirring during the application.**
+
+### Step 3 — Application (from TDS)
+- Pour the mixed epoxy onto the floor and spread evenly using a **notched squeegee**. Use a roller to even out the coating and remove air bubbles. Work in small sections for consistent application.
+- During application, the product **needs to be continuously stirred to prevent the particles from settling**.
+- The **second coat is applied perpendicularly with an interval of 2–3 hrs, without any dilution**. A third coat might be recommended depending on the substrate.
+- Avoid application in direct sun and/or strong wind. Protect freshly applied material from rain etc.
+- During adverse weather (high temperatures, low relative humidity, wind, sun) take particular care with curing treatment.
+- When working in hot temperature conditions, sprinkled water may be added to the surface to make it stable.
+- Clean all tools and application equipment with water immediately after use. Hardened or cured material can only be removed mechanically.
+- **DO NOT pond with water before 5 days post application.**
+
+> ⚠️ **Contradiction between sources:** the TDS gives a recoat interval of **2–3 hours** and a maximum time between coats of **36 hours**; the landing page's application step gives no interval at all. Use the TDS figures.
+
+---
+
+## 8. TECHNICAL DATA SHEET — Full Specifications
+
+Source: *Star Epoxy Flooring — Technical Data Sheet*, StarShield Technologies Pvt. Ltd. (5 pages).
+PDF saved in this folder as `STAR_EPOXY_FLOORING-Technical_Data_Sheet.pdf`.
+
+### 8.1 Physical Properties
+
+| Physical property | Testing method | Result |
+|---|---|---|
+| Pot life | — | **25 mins** |
+| Cure time | — | **24 hours** |
+| Maximum time between coats | — | **36 hours** |
+| Light traffic use after | — | **24 hours** |
+| Full traffic use after | — | **48 hours** |
+| Resistance to chemical spillage | — | **7 days** |
+| Compressive strength | IS: 9162-1979 Part 8 | **82.5 N/mm²** |
+| Flexural strength | IS: 9162-1979 Part 9 | **21 N/mm²** |
+| Tensile strength | IS: 9162-1979 Part 10 | **19 N/mm²** |
+| Water absorption | ASTM C 413:1996 | **0.07 %** |
+| Shore D Hardness | ASTM D 2240 | **> 80** |
+| **VOC Content** | ASTM D 2369 | **NIL** |
+
+### 8.2 Chemical Resistance (ASTM D 543, 168 hours / 7 days at 23 °C ± 2)
+
+| Group | Chemicals tested | Result |
+|---|---|---|
+| **Acids** | Lactic acid 10%, Citric acid 10%, Acetic acid 10%, Hydrochloric acid 50%, Sulphuric acid 50%, Nitric acid 25% | **Resistant** |
+| **Alkalis** | Sodium hydroxide 50%, Ammonia (0.880) 10% | **Resistant** |
+| **Solvents** | Petrol, Oil, Kerosene, Butanol | **Resistant** |
+
+### 8.3 Mixing, Coverage & Shelf Life
+
+| Parameter | Value |
+|---|---|
+| Mix ratio (Part A : Part B) | **2 : 1** |
+| Rest after unsealing | 10 minutes |
+| Stirring | 3–4 minutes at 300–400 RPM with mixing paddle |
+| **Coverage** | **40–50 sq. ft./litre @ 250 microns WFT/DFT** |
+| Total film thickness (landing page) | 500 μm – 2 mm |
+| Recoat interval | 2–3 hours (max 36 hours) |
+| Third coat | May be recommended depending on substrate |
+| **Shelf life** | **24 months** from date of manufacturing |
+
+*Coverage may vary depending upon the nature and texture of the surface.*
+
+### 8.4 Packing Sizes (per TDS)
+
+- 1 Ltr (Part A + Part B)
+- 5 Ltrs (Part A + Part B)
+- 18.2 / 20 Ltrs (Part A + Part B)
+
+> ⚠️ **Pack size mismatch:** the TDS lists **1 / 5 / 18.2–20 L**, while the storefront sells **1.5 / 15 / 30 L**. Neither list matches the other on a single size. This needs reconciling before any TDS goes to a customer alongside a quote.
+
+### 8.5 Health & Safety Precautions (from TDS)
+
+- It should not come in contact with skin and eyes or be swallowed. **Protective gloves and goggles should be worn.**
+- If contact with skin occurs, wash well with soap and water. Eye contamination should be washed thoroughly with clean water and medical advice should be sought.
+- If swallowed, seek medical attention immediately.
+- **Star Epoxy Flooring when it becomes damp may release alkalis which can be harmful to the skin & eye.**
+- Ensure proper ventilation in the application area.
+
+### 8.6 Handling & Storage (from TDS)
+
+- **Star Epoxy Flooring is flammable.** During handling, keep it away from flammable sources.
+- The material should be stored in sealed containers to prevent moisture or contamination from entering, and should be kept closed when not in use.
+- In case of spills or leaks during handling, the area should be immediately cleaned up with water.
+- Store the product out of reach of children and pets. Normal industrial hygiene procedures should be adhered to.
+- **Do not dilute Star Epoxy Flooring while storing.**
+- Any expired or unused material should be disposed of properly, following all relevant environmental regulations.
+
+---
+
+## 9. FAQs (verbatim from the landing page)
+
+**Q. What is Star Epoxy Flooring made of?**
+A. Star Epoxy Flooring is a 2-component epoxy system enhanced with proprietary nanotechnology that creates an impermeable, cross-linked polymer surface.
+
+**Q. What is the coverage rate for Star Epoxy Flooring?**
+A. Coverage is approximately 40 sq ft per litre on new surfaces and 50 sq ft per litre on existing surfaces, depending on substrate porosity.
+
+**Q. How thick is the finished Star Epoxy Flooring coating?**
+A. The total film thickness typically ranges from 500 microns to 2mm, depending on the number of coats and application requirements.
+
+**Q. Is Star Epoxy Flooring resistant to chemicals?**
+A. Yes, it is impervious to oils, acids, solvents, alkalis, and other industrial chemicals commonly found in demanding environments.
+
+**Q. What temperature range can Star Epoxy Flooring withstand?**
+A. It maintains integrity across temperatures from -20°C to 120°C, preventing cracking or delamination in extreme thermal environments.
+
+**Q. What surfaces can Star Epoxy Flooring be applied to?**
+A. It bonds securely to concrete, metal, wood, stone, and previously coated surfaces with proper preparation.
+
+**Q. Is Star Epoxy Flooring suitable for food and pharmaceutical facilities?**
+A. Yes, its seamless, joint-free surface meets hygiene requirements for food processing plants, breweries, hospitals, and pharmaceutical clean rooms.
+
+**Q. How long before a floor can return to service after application?**
+A. Star Epoxy Flooring is engineered for rapid curing, minimizing facility downtime and allowing a quicker return to full operational loads than conventional flooring systems.
+
+**Q. Is Star Epoxy Flooring suitable for heavy machinery traffic?**
+A. Yes, it is engineered to withstand heavy machinery traffic, impact loads, and abrasion in industrial and warehouse environments.
+
+**Q. Does Star Epoxy Flooring improve facility lighting?**
+A. Yes, its glossy, reflective finish improves light reflectance, helping reduce energy consumption in industrial facilities.
+
+---
+
+## 10. Customer Testimonials (on the landing page)
+
+**Nitin Chawla** — Plant Manager, Manufacturing Facility, Faridabad — 5 stars, Verified purchase
+> "Our manufacturing floor sees constant forklift traffic and oil spills. Star Epoxy Flooring has held up without a single crack, and the seamless finish makes cleanup fast."
+
+**Dr. Anjali Verma** — Facilities Director, Pharmaceutical Plant, Baddi — 5 stars, Verified purchase
+> "We installed Star Epoxy Flooring across our pharmaceutical clean rooms. It meets our hygiene requirements perfectly, and the joint-free surface has passed every compliance audit since."
+
+The Shopify product page carries a **5.0 rating from 1 review**.
+
+---
+
+## 11. Files & Image Assets in This Folder
+
+| File | Source URL | What it is |
+|---|---|---|
+| `STAR_EPOXY_FLOORING-Technical_Data_Sheet.pdf` | https://cdn.shopify.com/s/files/1/0672/5048/7524/files/Star_Epoxy_Flooring_Technical_Data_sheet_320d6d7e-e759-44b5-86ae-00534c8f96ce.pdf?v=1789380255 | Official 5-page TDS |
+| `images/01_product-pack-shot.png` | https://cdn.shopify.com/s/files/1/0672/5048/7524/files/Star_Epoxy_Flooring_2K.png?v=1746170480 | Official product pack shot (2K pack) |
+| `images/02_hero-banner.webp` | https://starshieldpaints.com/cdn/shop/files/hero_image_star_epoxy_flooring_industrial.webp?v=1788863799 | Landing-page hero banner (filename confirms the "industrial" variant) |
+| `images/03_primer-kit-pack.jpg` | `.../files/StarEpoxyShieldPrimerPartA_2.jpg?v=1789640991` | Star Epoxy Flooring Primer Kit pack shot |
+| `images/04_screed-kit-pack.jpg` | `.../files/StarEpoxyShieldScreedPartA_2.jpg?v=1789640551` | Star Epoxy Flooring Screed Kit pack shot |
+| `images/05_topcoat-kit-pack.jpg` | `.../files/StarEpoxyShieldTopCoatPartA.jpg?v=1789640221` | Star Epoxy Flooring Top Coat Kit pack shot |
+
+All `.../files/` paths above are on `https://cdn.shopify.com/s/files/1/0672/5048/7524/`.
+
+The landing page itself carries **no application photo strip** — only the hero banner. The six "Recommended Application Areas" are rendered as text/icons, not photographs.
+
+> Note: the TDS PDF's cover page carries the heading **"STAR METAL SHIELD"** above "STAR EPOXY FLOORING" — a leftover from the template it was built from. Worth correcting before it goes out to a customer.
+
+---
+
+## 12. Gaps & Errors Found While Compiling
+
+1. **15 LTR pricing is broken** — selling price Rs. 9,490 exceeds the compare-at price of Rs. 4,390.
+2. **30 LTR shows no discount** — compare-at equals price, inconsistent with the rest of the range.
+3. **Pack sizes don't match the TDS** — store sells 1.5/15/30 L, TDS lists 1/5/18.2–20 L. No overlap.
+4. **TDS cover page says "STAR METAL SHIELD"** — wrong product name on the first page of the sheet.
+5. **Recoat interval conflict** — TDS says 2–3 hours; landing page gives none.
+6. **All four kit products have empty descriptions**, blank product type and tags, and tab characters in their titles.
+7. **No MSDS**, despite the TDS noting the product is flammable and can release alkalis when damp.
+8. **No slip-resistance rating** published despite "seamless slip resistant finish" being a TDS claim and anti-slip customisation being offered.
+9. **Colour range not published** despite "available in various colors" being claimed in two places.
+10. Shipping weight **0.0 kg** across every variant and kit.
+11. `/pages/star-epoxy-flooring-industrial` 404s — if the catalogue name is "Star Epoxy Flooring Industrial", a redirect would help.
+
+---
+
+## 13. Related Products in the Range
+
+Star Epoxy Flooring Primer Kit / Star Epoxy Flooring Screed Kit / Star Epoxy Flooring Top Coat Kit / Star Epoxy Flooring Clear /3D Top Coat Kit / Star Epoxy Flooring Metallic Top Coat Kit / Star Epoxy Flooring Texture Top Coat Kit / Star Epoxy Primer / Star Epoxy Shield / Star Epoxy Clear / Star Epoxy Paint / Star Epoxy Grout / Star Floor Shine / Star PU Flooring / Star Floor Shield 4K / Star Floor Crete / Star Terrazzo Flooring
+
+---
+
+## 14. Company Details
+
+**StarShield Technologies Pvt. Ltd.**
+Website: www.starshieldpaints.com — Helpline: +91 8588862999
+
+Company credentials stated across the site: World's 1st paint company certified as an ESCO (Energy Service Company) / ISO 9001:2015 certified manufacturing / GreenPro (Eco Label) certified / follows ASTM, EN, ISO & AOAC test standards / 150+ products / exports to 45+ countries / in-house R&D and testing lab / 15+ national and global patent claims.
+
+Product catalogue PDFs:
+- A4 portrait — https://cdn.shopify.com/s/files/1/0672/5048/7524/files/StarShield_Paints_Product_Catalogue.pdf
+- 16:9 presentation — https://cdn.shopify.com/s/files/1/0672/5048/7524/files/StarShield_Paints_Product_Catalogue_landscape.pdf

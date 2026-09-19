@@ -1,0 +1,7 @@
+node_modules/
+
+# Render intermediates — regenerate with `npx hyperframes snapshot`
+videos/*/snapshots/
+
+# Duplicated copies of the supplied product images; the originals live in assets/
+videos/*/capture/assets/
