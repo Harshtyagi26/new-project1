@@ -1,0 +1,121 @@
+SKU,ProductName,Category,Brand,UnitCost,ListPrice,Status,LaunchDate
+SKU-1001,Laptop X925 Core,Laptops,Cygnus,1122.06,1590.48,End of Life,2025-01-15
+SKU-1002,Laptop N386 Pro,Laptops,Everline,2299.73,3368.08,Active,2022-10-14
+SKU-1003,Laptop N802 Pro,Laptops,Delta Works,1512.37,2349.75,Preorder,2022-04-19
+SKU-1004,Laptop N124 Ultra,Laptops,Boreal,2219.09,3198.86,Active,2023-08-24
+SKU-1005,Laptop X911 Air,Laptops,Boreal,1032.29,1611.9,Active,2021-11-14
+SKU-1006,Laptop X841 Prime,Laptops,Delta Works,1483.83,2229.97,End of Life,2024-03-08
+SKU-1007,Laptop N881 Lite,Laptops,Boreal,1061.74,1513.38,Active,2021-04-03
+SKU-1008,Laptop T867 Lite,Laptops,Everline,1989.93,2860.19,End of Life,2023-05-03
+SKU-1009,Laptop V663 Pro,Laptops,Cygnus,2318.58,3341.5,Active,2022-01-15
+SKU-1010,Laptop T134 Lite,Laptops,Everline,1090.23,1514.87,Preorder,2023-01-19
+SKU-1011,Laptop N889 Air,Laptops,Delta Works,1489.3,2304.08,Active,2022-09-08
+SKU-1012,Laptop N941 Edge,Laptops,Boreal,2102.39,3047.46,Active,2024-01-31
+SKU-1013,Laptop Z197 Lite,Laptops,Boreal,1390.65,2073.19,Active,2022-08-11
+SKU-1014,Laptop T502 Prime,Laptops,Everline,1321.51,1949.83,Active,2024-05-19
+SKU-1015,Laptop T906 Pro,Laptops,Delta Works,924.69,1315.81,Active,2022-10-04
+SKU-1016,Laptop X836 Air,Laptops,Boreal,2228.04,3292.27,Active,2021-04-13
+SKU-1017,Laptop T288 Edge,Laptops,Boreal,2180.49,3083.45,Active,2025-01-11
+SKU-1018,Laptop X961 Core,Laptops,Boreal,1773.97,2719.05,Active,2022-09-03
+SKU-1019,Laptop N304 Ultra,Laptops,Boreal,1175.47,1704.93,Active,2024-03-21
+SKU-1020,Laptop N500 Lite,Laptops,Everline,2390.72,3674.26,Active,2021-04-03
+SKU-1021,Monitor N926 Pro,Monitors,Boreal,303.16,444.75,Active,2021-08-12
+SKU-1022,Monitor X699 Air,Monitors,Delta Works,195.26,296.21,Active,2021-06-15
+SKU-1023,Monitor Z417 Max,Monitors,Delta Works,898.81,1366.21,Preorder,2024-03-22
+SKU-1024,Monitor V811 Ultra,Monitors,Aster,221.59,340.87,Active,2024-06-20
+SKU-1025,Monitor Z104 Core,Monitors,Boreal,398.01,577.77,Active,2022-10-28
+SKU-1026,Monitor N375 Ultra,Monitors,Aster,254.02,371.18,Active,2023-01-06
+SKU-1027,Monitor N738 Air,Monitors,Boreal,331.56,487.06,Active,2021-07-15
+SKU-1028,Monitor T465 Prime,Monitors,Boreal,836.57,1296.45,End of Life,2021-09-13
+SKU-1029,Monitor Z647 Pro,Monitors,Cygnus,287.42,438.72,End of Life,2022-12-03
+SKU-1030,Monitor N550 Air,Monitors,Cygnus,522.2,756.24,End of Life,2021-03-18
+SKU-1031,Monitor N296 Ultra,Monitors,Boreal,667.83,953.0,Active,2024-06-11
+SKU-1032,Monitor X869 Prime,Monitors,Delta Works,585.49,929.07,Active,2021-12-11
+SKU-1033,Monitor X184 Prime,Monitors,Boreal,400.25,617.73,Active,2023-02-14
+SKU-1034,Monitor X839 Edge,Monitors,Aster,315.72,511.32,Active,2021-12-13
+SKU-1035,Monitor T324 Core,Monitors,Delta Works,763.01,1114.67,Active,2021-12-20
+SKU-1036,Monitor V952 Air,Monitors,Cygnus,767.33,1180.66,Preorder,2024-06-30
+SKU-1037,Monitor X310 Prime,Monitors,Everline,782.69,1230.78,Active,2024-10-19
+SKU-1038,Monitor N546 Max,Monitors,Everline,554.33,829.48,Preorder,2024-02-11
+SKU-1039,Monitor T912 Pro,Monitors,Boreal,748.13,1201.03,Active,2021-08-17
+SKU-1040,Monitor T630 Air,Monitors,Everline,344.73,519.33,Active,2024-05-16
+SKU-1041,Peripheral Z600 Core,Peripherals,Cygnus,211.27,371.64,Preorder,2021-08-01
+SKU-1042,Peripheral Z296 Air,Peripherals,Aster,46.51,84.72,Preorder,2022-08-10
+SKU-1043,Peripheral Z514 Lite,Peripherals,Aster,113.15,212.9,Active,2024-06-27
+SKU-1044,Peripheral X359 Lite,Peripherals,Boreal,21.28,42.05,Active,2023-10-02
+SKU-1045,Peripheral X529 Air,Peripherals,Aster,208.79,388.64,Active,2023-10-12
+SKU-1046,Peripheral Z558 Prime,Peripherals,Delta Works,149.29,291.02,Active,2021-09-27
+SKU-1047,Peripheral Z337 Ultra,Peripherals,Delta Works,126.58,240.32,Active,2023-09-20
+SKU-1048,Peripheral Z200 Ultra,Peripherals,Aster,200.64,405.97,Active,2024-01-04
+SKU-1049,Peripheral X296 Max,Peripherals,Aster,231.11,426.32,End of Life,2023-09-29
+SKU-1050,Peripheral T877 Prime,Peripherals,Everline,189.69,335.4,Active,2022-09-17
+SKU-1051,Peripheral T401 Lite,Peripherals,Cygnus,178.18,311.03,Active,2024-09-23
+SKU-1052,Peripheral X797 Prime,Peripherals,Boreal,159.28,310.49,Active,2024-02-21
+SKU-1053,Peripheral V861 Max,Peripherals,Delta Works,216.56,417.51,Active,2024-04-22
+SKU-1054,Peripheral T349 Core,Peripherals,Delta Works,104.59,210.36,Active,2023-08-05
+SKU-1055,Peripheral X529 Core,Peripherals,Everline,39.18,77.77,Active,2022-10-26
+SKU-1056,Peripheral V581 Max,Peripherals,Everline,22.62,45.14,Preorder,2021-03-30
+SKU-1057,Peripheral Z948 Air,Peripherals,Boreal,228.53,457.5,End of Life,2024-01-08
+SKU-1058,Peripheral V804 Edge,Peripherals,Cygnus,221.87,410.18,Active,2024-10-14
+SKU-1059,Peripheral T838 Ultra,Peripherals,Everline,144.83,294.39,Active,2022-10-11
+SKU-1060,Peripheral X229 Lite,Peripherals,Boreal,169.65,299.52,Active,2022-10-31
+SKU-1061,Networking V512 Max,Networking,Everline,695.99,1191.4,End of Life,2022-11-26
+SKU-1062,Networking T555 Ultra,Networking,Boreal,541.69,864.38,Active,2023-01-08
+SKU-1063,Networking N553 Lite,Networking,Boreal,601.78,935.12,Preorder,2024-07-04
+SKU-1064,Networking Z637 Lite,Networking,Everline,1218.2,2008.03,Preorder,2022-12-24
+SKU-1065,Networking V694 Pro,Networking,Delta Works,239.24,417.19,Active,2023-08-10
+SKU-1066,Networking T549 Pro,Networking,Aster,287.69,491.43,Active,2024-09-24
+SKU-1067,Networking X779 Max,Networking,Boreal,153.76,254.78,Active,2022-08-17
+SKU-1068,Networking V907 Core,Networking,Boreal,463.25,782.54,End of Life,2022-02-02
+SKU-1069,Networking X701 Ultra,Networking,Everline,390.62,640.52,End of Life,2024-07-28
+SKU-1070,Networking X379 Edge,Networking,Cygnus,630.08,1052.94,Active,2021-01-22
+SKU-1071,Networking Z127 Core,Networking,Cygnus,528.71,827.39,Active,2024-12-28
+SKU-1072,Networking Z548 Pro,Networking,Delta Works,371.48,593.71,End of Life,2022-10-27
+SKU-1073,Networking N547 Lite,Networking,Everline,226.42,347.65,End of Life,2023-03-16
+SKU-1074,Networking Z890 Ultra,Networking,Cygnus,120.87,192.25,Active,2022-11-12
+SKU-1075,Networking Z658 Core,Networking,Cygnus,736.87,1273.44,Active,2022-02-11
+SKU-1076,Networking Z575 Edge,Networking,Delta Works,1029.28,1719.15,End of Life,2025-01-05
+SKU-1077,Networking V955 Pro,Networking,Everline,449.94,740.62,End of Life,2023-07-24
+SKU-1078,Networking X862 Air,Networking,Boreal,583.05,981.51,Active,2021-04-23
+SKU-1079,Networking N258 Pro,Networking,Aster,286.76,453.79,Active,2021-12-28
+SKU-1080,Networking T205 Core,Networking,Everline,516.63,788.65,Active,2022-03-13
+SKU-1081,Storage T302 Pro,Storage,Delta Works,295.78,427.43,Active,2023-11-03
+SKU-1082,Storage X896 Lite,Storage,Delta Works,140.32,199.64,End of Life,2021-12-24
+SKU-1083,Storage V503 Core,Storage,Cygnus,89.21,132.45,Active,2024-08-24
+SKU-1084,Storage V643 Core,Storage,Delta Works,364.58,497.7,Active,2023-01-07
+SKU-1085,Storage V295 Max,Storage,Cygnus,123.38,163.55,Active,2024-03-12
+SKU-1086,Storage N525 Max,Storage,Boreal,706.44,1066.03,Active,2021-04-11
+SKU-1087,Storage V672 Air,Storage,Aster,150.81,222.44,Preorder,2022-02-28
+SKU-1088,Storage X445 Core,Storage,Aster,433.93,601.62,Active,2022-03-20
+SKU-1089,Storage Z535 Core,Storage,Everline,339.7,512.43,Active,2022-09-22
+SKU-1090,Storage V402 Edge,Storage,Everline,563.34,853.08,Active,2022-04-12
+SKU-1091,Storage X839 Prime,Storage,Delta Works,699.51,949.67,Active,2025-01-10
+SKU-1092,Storage T964 Max,Storage,Boreal,160.65,227.16,Active,2023-04-08
+SKU-1093,Storage N109 Prime,Storage,Aster,628.28,856.06,Active,2023-05-16
+SKU-1094,Storage V443 Max,Storage,Everline,224.89,321.11,End of Life,2021-02-05
+SKU-1095,Storage V140 Air,Storage,Delta Works,385.17,537.52,End of Life,2021-07-05
+SKU-1096,Storage N511 Lite,Storage,Aster,664.98,924.54,Active,2021-03-27
+SKU-1097,Storage T155 Ultra,Storage,Boreal,133.35,176.34,End of Life,2022-04-17
+SKU-1098,Storage X637 Lite,Storage,Boreal,407.17,587.94,End of Life,2022-05-12
+SKU-1099,Storage Z634 Prime,Storage,Boreal,593.89,881.67,End of Life,2022-11-21
+SKU-1100,Storage Z655 Core,Storage,Cygnus,499.86,754.71,Active,2021-08-09
+SKU-1101,Accessorie Z629 Prime,Accessories,Boreal,60.05,149.25,Active,2023-10-17
+SKU-1102,Accessorie N384 Max,Accessories,Boreal,92.26,198.44,Preorder,2023-02-12
+SKU-1103,Accessorie Z525 Edge,Accessories,Aster,86.3,198.1,Active,2024-10-15
+SKU-1104,Accessorie T499 Ultra,Accessories,Delta Works,19.34,40.52,End of Life,2022-06-16
+SKU-1105,Accessorie X616 Max,Accessories,Everline,60.97,139.86,Active,2022-01-15
+SKU-1106,Accessorie V619 Pro,Accessories,Cygnus,81.37,179.48,Preorder,2024-05-27
+SKU-1107,Accessorie N633 Air,Accessories,Everline,37.72,92.86,Preorder,2024-01-07
+SKU-1108,Accessorie Z124 Prime,Accessories,Boreal,47.94,111.01,Active,2024-08-27
+SKU-1109,Accessorie X669 Max,Accessories,Delta Works,59.43,131.89,Preorder,2023-12-16
+SKU-1110,Accessorie T497 Lite,Accessories,Delta Works,23.98,50.0,Active,2023-12-05
+SKU-1111,Accessorie V102 Max,Accessories,Boreal,50.67,118.52,End of Life,2022-08-24
+SKU-1112,Accessorie T408 Ultra,Accessories,Boreal,73.98,160.4,Active,2021-02-13
+SKU-1113,Accessorie N582 Prime,Accessories,Aster,10.45,23.87,Active,2022-10-17
+SKU-1114,Accessorie V194 Pro,Accessories,Delta Works,72.47,150.14,Active,2023-04-22
+SKU-1115,Accessorie T451 Lite,Accessories,Cygnus,95.86,201.56,Active,2021-08-03
+SKU-1116,Accessorie X194 Max,Accessories,Cygnus,72.53,147.71,Preorder,2021-08-12
+SKU-1117,Accessorie T233 Edge,Accessories,Delta Works,55.83,127.94,Active,2024-03-27
+SKU-1118,Accessorie N347 Lite,Accessories,Boreal,57.64,143.1,End of Life,2021-11-17
+SKU-1119,Accessorie Z647 Max,Accessories,Cygnus,41.56,84.73,End of Life,2023-02-16
+SKU-1120,Accessorie X385 Max,Accessories,Everline,86.17,210.18,Active,2024-01-09

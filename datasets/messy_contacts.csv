@@ -1,0 +1,418 @@
+ContactID,FullName,Email,Phone,JoinDate,LifetimeSpend,OptedIn,Region
+C0001,  IVAN ZHANG ,Ivan.Zhang66@Outlook.COM,6470554455,,42594 USD,yes,uki
+C0002,  AMARA VARGAS ,Amara.Vargas30@gmail.com,,,38597.52,yes,NA-E
+C0003,Sana  Nakamura,Sana.Nakamura35@Outlook.COM,468.320.2968,2022-02-20,"$31,656.91",N, NA-W
+C0004,Thea  Bennett,Thea.Bennett94@gmail.com,3645041186,09-May-25,25400.67,N, NA-W
+C0005,  ELENA FONTAINE ,Elena.Fontaine74@yahoo.co.uk,730.940.3613,17-May-25,39398 USD,yes,uki
+C0006,Samir  Dahl,Samir.Dahl71@gmail.com,,2024-02-16,"$44,539.66",N,UKI
+C0007,Nikolai Weber,Nikolai.Weber24@gmail.com,9568010396,11-Dec-24,10276 USD,yes,UKI
+C0008,Greta Garcia,Greta.Garcia61@Outlook.COM,6994904907,2022-08-19,"$39,765.94",yes,uki
+C0009,"Fontaine, Omar",Omar.Fontaine36@yahoo.co.uk,7105212474,2023-04-03,n/a,FALSE,APAC-N
+C0010,Zara Zimmerman,Zara.Zimmerman20@gmail.com,8878632989,04-Apr-23,19120.74,N,uki
+C0011,Viktor  Okafor,Viktor.Okafor38@yahoo.co.uk,+1-824-632-1493,2025-02-06,n/a,Y,na-e
+C0012,Zara  Khan,Zara.Khan62@Outlook.COM,(209) 200-5577,22-Mar-24,n/a,N, NA-W
+C0013,"Zimmerman, Ada",Ada.Zimmerman20@proton.me,2254314496,03/16/2024,9463.80,yes,NA-E
+C0014,Petra Petrov ,Petra.Petrov46@proton.me,,,"$44,145.45",N,APAC-N
+C0015,Zara Abara ,Zara.Abara62@yahoo.co.uk,,24-Jan-24,n/a,FALSE, NA-W
+C0016,Sana  Novak,Sana.Novak29@corp.example,2824968288,,3778 USD,Y,NA-E
+C0017,"Rossi, Wei",Wei.Rossi16@proton.me,(680) 937-9680,05/04/2024,n/a,No,UKI
+C0018,"Carvalho, Hana",Hana.Carvalho19@gmail.com,503.225.5374,2023-10-09,"$22,869.11",yes, NA-W
+C0019,  OLGA SORENSEN ,Olga.Sorensen1@gmail.com,7879605641,05-Nov-24,"$49,915.82",,uki
+C0020,Ada  Oyelaran,Ada.Oyelaran81@Outlook.COM,705.711.3667,2023-11-07,46658 USD,Y, NA-W
+C0021,  EMEKA TOURE ,Emeka.Toure6@corp.example,713.375.1114,06/02/2022,24887 USD,Yes,APAC-N
+C0022,  YUSUF KHAN ,Yusuf.Khan3@Outlook.COM,3263494393,01/10/2023,"$30,858.92",Y,NA-E
+C0023,"Yilmaz, Nadia",Nadia.Yilmaz77@corp.example,(341) 411-4839,06/17/2023,18952 USD,TRUE,DACH
+C0024,Felix  Hoffmann,Felix.Hoffmann69@gmail.com,(399) 727-6585,,n/a,Y,UKI
+C0025,Emeka  Sandoval,Emeka.Sandoval1@gmail.com,(369) 757-9573,16-Jun-22,16930.68,TRUE,uki
+C0026,  IVAN FONTAINE ,Ivan.Fontaine18@yahoo.co.uk,5803873412,2022-05-15,n/a,yes,uki
+C0027,"Nakamura, Chen",Chen.Nakamura64@yahoo.co.uk,(529) 803-9201,2022-12-06,23169.15,No,uki
+C0028,"Fontaine, Jonas",Jonas.Fontaine88@corp.example,5124055436,04/25/2025,"$23,495.52",Y,?
+C0029,Elena  Carvalho,Elena.Carvalho55@gmail.com,795.996.4552,2023-11-30,35630.61,FALSE,UKI
+C0030,Felix Carvalho ,Felix.Carvalho98@gmail.com,+1-751-926-3773,05/02/2024,"$31,868.40",no,NA-E
+C0031,Jonas Moreau ,Jonas.Moreau71@Outlook.COM,(588) 237-4023,2024-08-19,7523 USD,,APAC-N
+C0032,Yusuf Costa,Yusuf.Costa84@corp.example,6673211477,10-May-25,"$16,539.91",no,APAC-N
+C0033,"Ibrahim, Amara",Amara.Ibrahim74@proton.me,+1-747-399-3288,2024-11-19,n/a,Yes, NA-W
+C0034,Caleb Hoffmann,Caleb.Hoffmann34@corp.example,4230305147,06-Jul-24,17329.53,N,DACH
+C0035,Mei Singh ,Mei.Singh4@gmail.com,(648) 448-7500,04/09/2025,10502 USD,N,?
+C0036,  TARIQ COSTA ,Tariq.Costa11@Outlook.COM,(696) 878-1334,08-Jun-24,"$23,866.36",,uki
+C0037,Kwame  Mbeki,Kwame.Mbeki45@proton.me,(790) 979-2452,12/06/2024,14579.03,Yes, NA-W
+C0037,Kwame  Mbeki,Kwame.Mbeki45@proton.me,(790) 979-2452,12/06/2024,14579.03,Yes, NA-W
+C0038,Yusuf  Tanaka,Yusuf.Tanaka18@proton.me,9799834329,2022-08-25,21389.43,N,uki
+C0039,Nadia Nakamura,Nadia.Nakamura82@yahoo.co.uk,9245567159,30-Nov-23,"$2,075.00",,UKI
+C0040,"Laurent, Zara",Zara.Laurent26@proton.me,263.225.3443,2023-07-14,765 USD,Y,NA-E
+C0041,Adaeze  Laurent,Adaeze.Laurent29@corp.example,+1-537-426-6902,2023-11-06,n/a,Yes,UKI
+C0042,Fatima Zhang,Fatima.Zhang45@corp.example,+1-736-844-4894,,272 USD,N,APAC-N
+C0043,Greta Fontaine,Greta.Fontaine96@proton.me,(362) 911-9193,11/14/2022,"$36,035.68",Yes,?
+C0044,Ada  Petrov,Ada.Petrov66@Outlook.COM,,10/26/2024,34488.25,Y,?
+C0045,Jonas Sorensen,Jonas.Sorensen82@Outlook.COM,2287226825,07-Nov-23,"$38,251.14",N,UKI
+C0046,Ivan Lindqvist ,Ivan.Lindqvist33@Outlook.COM,,11-Mar-24,10111 USD,Yes,na-e
+C0047,Thea  Vogel,Thea.Vogel7@gmail.com,,2023-11-09,26039.36,,na-e
+C0048,Petra Novak,Petra.Novak94@gmail.com,,,48348.37,N,na-e
+C0049,  DARIUS JENSEN ,Darius.Jensen22@yahoo.co.uk,(546) 290-4176,,"$28,974.30",TRUE,?
+C0050,  DANIELA TOURE ,Daniela.Toure58@gmail.com,,,34425.54,N,UKI
+C0051,Daniela Toure,Daniela.Toure44@yahoo.co.uk,+1-819-704-2777,04/14/2024,34796 USD,,UKI
+C0052,  IVAN ERIKSEN ,Ivan.Eriksen25@Outlook.COM,(814) 949-4572,03/01/2025,10715.55,yes,DACH
+C0053,Tariq Carvalho ,Tariq.Carvalho89@gmail.com,(803) 508-5420,,19234 USD,FALSE,?
+C0053X,TARIQ CARVALHO ,Tariq.Carvalho89@gmail.com,(803) 508-5420,,19234 USD,FALSE,?
+C0054,Tariq Haddad ,Tariq.Haddad60@yahoo.co.uk,,2023-10-26,"$31,905.44",TRUE,DACH
+C0055,  FELIX ANDERSEN ,Felix.Andersen38@corp.example,(666) 801-8327,07/18/2025,29680 USD,Yes,UKI
+C0056,  INES PETROV ,Ines.Petrov18@proton.me,983.290.2657,2022-04-10,n/a,Y, NA-W
+C0057,  RANIA LAURENT ,Rania.Laurent68@proton.me,,08/26/2023,"$15,954.20",N,DACH
+C0058,Olga  Weber,Olga.Weber42@yahoo.co.uk,+1-878-980-9549,11/16/2022,43374.82,N,?
+C0059,"Kaur, Ada",Ada.Kaur16@proton.me,,2022-05-20,n/a,TRUE,uki
+C0060,Amara  Jensen,Amara.Jensen9@proton.me,,05-Aug-23,47498.18,No,UKI
+C0061,  MALIK DELGADO ,Malik.Delgado60@yahoo.co.uk,699.243.2436,07/12/2025,"$22,620.07",TRUE,NA-E
+C0062,Sana  Zimmerman,Sana.Zimmerman18@gmail.com,,,46971.75,FALSE,uki
+C0063,Emeka Bennett ,Emeka.Bennett38@yahoo.co.uk,,,n/a,No,?
+C0064,Bao Mbeki ,Bao.Mbeki43@Outlook.COM,(677) 565-2516,05/20/2022,n/a,N,?
+C0065,Samir Khan ,Samir.Khan24@corp.example,755.419.2950,03/22/2024,"$37,245.35",no,DACH
+C0066,Kwame Haddad,Kwame.Haddad10@gmail.com,6276153406,,48997.97,FALSE,DACH
+C0067,Tomas  Yilmaz,Tomas.Yilmaz58@yahoo.co.uk,,01/08/2022,n/a,TRUE,?
+C0068,Yusuf Yilmaz ,Yusuf.Yilmaz35@proton.me,4390578838,,n/a,FALSE,DACH
+C0069,"Ibrahim, Rosa",Rosa.Ibrahim32@proton.me,(709) 308-5059,2024-10-26,"$7,912.40",Yes,uki
+C0070,"Carvalho, Samir",Samir.Carvalho67@yahoo.co.uk,6763263629,25-Jul-24,31222.18,TRUE,?
+C0071,Mei  Garcia,Mei.Garcia63@corp.example,520.292.4563,,7978 USD,Yes, NA-W
+C0072,Caleb Rossi ,Caleb.Rossi72@gmail.com,327.657.6311,2024-10-19,n/a,,DACH
+C0073,  SANA BAKKER ,Sana.Bakker16@proton.me,+1-918-640-2754,10/18/2023,13247 USD,Yes,uki
+C0074,"Garcia, Rosa",Rosa.Garcia92@proton.me,,01/19/2025,"$16,263.71",No,NA-E
+C0074,"Garcia, Rosa",Rosa.Garcia92@proton.me,,01/19/2025,"$16,263.71",No,NA-E
+C0075,Hana Bakker,Hana.Bakker28@proton.me,,,"$28,317.91",Y,NA-E
+C0076,"Khan, Omar",Omar.Khan71@Outlook.COM,+1-513-442-7881,09/27/2023,7790 USD,,UKI
+C0077,Jonas Dahl,Jonas.Dahl4@corp.example,+1-527-976-6462,26-May-23,"$48,666.45",FALSE,NA-E
+C0078,"Wang, Paulo",Paulo.Wang19@gmail.com,+1-279-364-7827,,47716.39,No,?
+C0079,"Ibrahim, Viktor",Viktor.Ibrahim8@proton.me,6170678442,,"$47,731.78",yes,?
+C0080,Amara  Kowalski,Amara.Kowalski47@gmail.com,,16-Apr-23,n/a,,na-e
+C0081,Wei Petrov ,Wei.Petrov55@corp.example,+1-917-503-9740,2025-01-21,49978.09,Y, NA-W
+C0082,Petra Kowalski,Petra.Kowalski25@corp.example,(840) 520-1340,01/29/2025,15971 USD,no,APAC-N
+C0083,"Okafor, Ivan",Ivan.Okafor2@Outlook.COM,+1-235-258-8577,,26 USD,FALSE,APAC-N
+C0084,  THEA HOFFMANN ,Thea.Hoffmann48@gmail.com,2365802375,20-Mar-25,"$21,611.46",Y,DACH
+C0085,Yusuf Ibrahim,Yusuf.Ibrahim95@proton.me,+1-849-447-7238,29-Aug-23,"$40,141.31",,?
+C0086,Elena Weber ,Elena.Weber46@gmail.com,,,n/a,TRUE,APAC-N
+C0087,  LIAM NAKAMURA ,Liam.Nakamura15@gmail.com,(728) 379-4953,22-Apr-25,n/a,N,UKI
+C0088,"Wang, Samir",Samir.Wang82@yahoo.co.uk,,07/23/2022,"$17,497.62",TRUE,UKI
+C0089,Camila  Vogel,Camila.Vogel15@gmail.com,+1-521-577-7640,2022-04-20,28757 USD,yes,na-e
+C0090,Darius Quintero ,Darius.Quintero79@yahoo.co.uk,(773) 725-8427,,n/a,FALSE,NA-E
+C0091,Amara Mbeki,Amara.Mbeki39@Outlook.COM,,11/05/2022,n/a,FALSE,NA-E
+C0092,  THEA NOVAK ,Thea.Novak71@yahoo.co.uk,,08/05/2024,n/a,FALSE,UKI
+C0093,"Lindqvist, Lucia",Lucia.Lindqvist37@gmail.com,,23-Oct-24,32865 USD,Yes,DACH
+C0094,Thea Rossi,Thea.Rossi65@corp.example,,28-May-23,n/a,No,APAC-N
+C0095,Bao  Sorensen,Bao.Sorensen45@Outlook.COM,,2022-12-31,n/a,Yes,UKI
+C0096,Adaeze Nakamura ,Adaeze.Nakamura75@corp.example,,,n/a,no,?
+C0097,  LUCIA ZIMMERMAN ,Lucia.Zimmerman31@corp.example,983.860.3032,2022-06-28,39540 USD,no,UKI
+C0098,  ELENA OKAFOR ,Elena.Okafor14@corp.example,8078174074,08/30/2022,3856.82,N, NA-W
+C0099,Bao Zhang ,Bao.Zhang20@yahoo.co.uk,+1-882-395-6319,18-May-24,45553.21,Y,?
+C0100,"Fontaine, Petra",Petra.Fontaine64@gmail.com,401.470.2788,10/22/2022,n/a,Yes,uki
+C0101,Zoe Dahl ,Zoe.Dahl63@proton.me,,07/25/2023,22644.83,,DACH
+C0102,Tomas Kaur,Tomas.Kaur48@corp.example,(780) 862-3522,,n/a,no, NA-W
+C0103,"Marchetti, Ada",Ada.Marchetti20@corp.example,723.998.5971,04/23/2023,39903.80,,APAC-N
+C0104,Rania Alvarez,Rania.Alvarez35@gmail.com,(269) 422-8652,01-Jan-22,"$18,975.35",FALSE,NA-E
+C0105,Ravi  Wang,Ravi.Wang29@corp.example,(588) 485-6640,25-Nov-23,40300 USD,no,?
+C0106,Yara Garcia,Yara.Garcia2@yahoo.co.uk,9220677771,12/04/2022,"$2,489.51",no,DACH
+C0106X,YARA GARCIA,Yara.Garcia2@yahoo.co.uk,9220677771,12/04/2022,"$2,489.51",no,DACH
+C0107,Rosa  Singh,Rosa.Singh68@yahoo.co.uk,9148920372,28-Sep-22,n/a,, NA-W
+C0108,"Moreau, Hugo",Hugo.Moreau37@corp.example,3797068716,2022-10-28,14913.77,Y,uki
+C0109,Rosa  Sorensen,Rosa.Sorensen87@proton.me,+1-406-609-5788,2024-12-29,18556 USD,TRUE, NA-W
+C0110,Fatima Sorensen,Fatima.Sorensen61@Outlook.COM,7798370713,28-May-23,42472.36,yes,na-e
+C0111,Camila Sandoval ,Camila.Sandoval12@gmail.com,6837785805,07/11/2025,"$9,003.85",, NA-W
+C0111,Camila Sandoval ,Camila.Sandoval12@gmail.com,6837785805,07/11/2025,"$9,003.85",, NA-W
+C0112,Malik Vogel ,Malik.Vogel52@gmail.com,+1-677-420-4981,26-Mar-25,n/a,No, NA-W
+C0113,Yara  Nakamura,Yara.Nakamura2@gmail.com,(357) 843-6176,,"$2,349.53",Y,NA-E
+C0114,  NADIA BENNETT ,Nadia.Bennett16@yahoo.co.uk,3459358967,02/17/2022,n/a,TRUE,APAC-N
+C0115,"Carvalho, Rosa",Rosa.Carvalho84@yahoo.co.uk,(281) 429-9436,10-May-23,8203.30,Y,uki
+C0116,Tariq Sorensen ,Tariq.Sorensen92@corp.example,7903297285,10/29/2022,37905.30,,na-e
+C0117,"Laurent, Felix",Felix.Laurent70@corp.example,9411259015,08/11/2023,9973.43,,?
+C0118,  ELENA DELGADO ,Elena.Delgado20@Outlook.COM,2485528384,,"$22,486.11",N, NA-W
+C0119,"Bennett, Felix",Felix.Bennett80@yahoo.co.uk,+1-495-485-1092,,"$15,710.88",No,?
+C0120,Ivan  Chen,Ivan.Chen90@corp.example,+1-590-251-3324,,35867.56,TRUE,na-e
+C0121,Hana  Fontaine,Hana.Fontaine38@gmail.com,+1-748-643-3378,2023-12-24,19862 USD,Yes,DACH
+C0122,Petra  Petrov,Petra.Petrov53@corp.example,7723485448,2025-01-14,16828.86,No,UKI
+C0123,Viktor Tanaka ,Viktor.Tanaka13@Outlook.COM,(816) 936-8924,10/26/2022,7675 USD,TRUE,UKI
+C0124,Nadia  Tanaka,Nadia.Tanaka89@Outlook.COM,890.852.4751,04-Jul-25,"$33,440.60",Y,uki
+C0125,Zoe Eriksen,Zoe.Eriksen2@corp.example,(368) 832-8575,06/21/2025,39418 USD,yes,DACH
+C0126,  JONAS JENSEN ,Jonas.Jensen45@yahoo.co.uk,,13-Mar-24,"$46,940.80",No,uki
+C0127,Julia Abara ,Julia.Abara75@yahoo.co.uk,+1-550-664-9001,2025-06-25,"$39,012.25",no,NA-E
+C0128,Lara Abara,Lara.Abara94@proton.me,,2025-07-23,"$49,856.39",Y,APAC-N
+C0129,Nikolai Sorensen ,Nikolai.Sorensen34@gmail.com,+1-514-251-7152,,28323.53,No,na-e
+C0130,  HANA BAKKER ,Hana.Bakker92@proton.me,,2024-09-11,"$15,015.38",no,uki
+C0131,Elena  Ibrahim,Elena.Ibrahim18@proton.me,(311) 890-5174,07/13/2023,"$10,756.28",Y,APAC-N
+C0132,Ada  Zimmerman,Ada.Zimmerman64@proton.me,+1-505-469-3409,09/09/2024,n/a,TRUE,uki
+C0133,Paulo Alvarez,Paulo.Alvarez25@proton.me,6784825465,14-Mar-23,"$46,038.79",,APAC-N
+C0134,Thea  Kowalski,Thea.Kowalski10@corp.example,(333) 438-1234,,1230 USD,N, NA-W
+C0135,Omar Weber,Omar.Weber12@gmail.com,,26-Feb-22,n/a,N,?
+C0136,  FATIMA MOREAU ,Fatima.Moreau81@gmail.com,(263) 643-2442,13-May-24,"$15,619.47",No,DACH
+C0137,Ivan Kaur,Ivan.Kaur62@gmail.com,2679354839,2022-11-29,41407.76,yes,na-e
+C0138,"Khan, Nikolai",Nikolai.Khan30@Outlook.COM,(626) 777-2511,17-Sep-24,n/a,N,uki
+C0139,"Weber, Zara",Zara.Weber83@corp.example,2823372690,,n/a,N,na-e
+C0140,  MALIK PETROV ,Malik.Petrov20@Outlook.COM,+1-802-507-7055,10-Jan-24,22292 USD,no,?
+C0141,"Abara, Daniela",Daniela.Abara88@proton.me,,03/24/2025,"$35,022.91",Yes,APAC-N
+C0142,"Novak, Lucia",Lucia.Novak1@gmail.com,649.321.6872,2023-08-22,n/a,Yes,APAC-N
+C0143,Paulo Novak,Paulo.Novak96@gmail.com,+1-634-768-5639,09/29/2024,1374.21,no,na-e
+C0144,Fatima Petrov,Fatima.Petrov54@corp.example,+1-216-786-9309,,35896.48,Yes,uki
+C0145,  SAMIR MARCHETTI ,Samir.Marchetti51@corp.example,(505) 612-7892,18-Aug-23,n/a,N,DACH
+C0146,Felix Fontaine ,Felix.Fontaine98@corp.example,(859) 699-4570,,14889 USD,N, NA-W
+C0147,Fatima  Mbeki,Fatima.Mbeki17@yahoo.co.uk,,12/19/2024,"$15,009.93",no,NA-E
+C0148,Bruno Vargas ,Bruno.Vargas61@yahoo.co.uk,,,38253 USD,no,NA-E
+C0148,Bruno Vargas ,Bruno.Vargas61@yahoo.co.uk,,,38253 USD,no,NA-E
+C0149,Daniela  Novak,Daniela.Novak48@corp.example,881.236.9158,07/03/2025,n/a,N, NA-W
+C0150,Olga  Singh,Olga.Singh47@proton.me,,30-Sep-24,44004.85,no, NA-W
+C0151,Omar Kowalski,Omar.Kowalski92@proton.me,9096187601,11-Dec-22,49486 USD,no, NA-W
+C0152,Julia Okafor,Julia.Okafor89@proton.me,+1-662-594-6016,09/04/2023,"$37,707.73",Yes,uki
+C0153,Kwame Hoffmann ,Kwame.Hoffmann25@yahoo.co.uk,4906889351,10-Apr-23,"$25,614.83",,?
+C0154,  YARA SINGH ,Yara.Singh70@gmail.com,,24-May-23,"$26,936.21",,na-e
+C0155,Ivan Zimmerman,Ivan.Zimmerman91@Outlook.COM,447.493.4001,01/11/2022,n/a,N, NA-W
+C0156,  CHEN ALVAREZ ,Chen.Alvarez65@corp.example,(621) 755-9916,06/07/2025,13990 USD,yes,na-e
+C0157,  ELENA CHEN ,Elena.Chen24@Outlook.COM,4603046239,,37170.72,yes,uki
+C0158,"Moreau, Adaeze",Adaeze.Moreau71@gmail.com,7693006477,2025-02-07,48209.07,yes,uki
+C0159,Yara Chen,Yara.Chen25@gmail.com,(376) 722-8321,19-May-22,"$18,957.68",Yes,uki
+C0159X,YARA CHEN,Yara.Chen25@gmail.com,(376) 722-8321,19-May-22,"$18,957.68",Yes,uki
+C0160,"Hoffmann, Elena",Elena.Hoffmann91@corp.example,+1-952-593-7226,,31759 USD,TRUE,?
+C0161,Petra Okafor ,Petra.Okafor78@gmail.com,,16-Aug-23,n/a,Yes,na-e
+C0162,Yusuf Novak ,Yusuf.Novak22@Outlook.COM,4056943495,,"$3,822.58",no,na-e
+C0163,Daniela Vogel ,Daniela.Vogel43@corp.example,+1-610-295-6174,2023-03-19,n/a,,DACH
+C0164,Ada Abara,Ada.Abara97@proton.me,651.491.8167,05/27/2025,26179.16,,APAC-N
+C0165,  NIKOLAI YILMAZ ,Nikolai.Yilmaz49@proton.me,8665729533,01/18/2024,"$17,890.97",TRUE,na-e
+C0166,"Zhang, Hugo",Hugo.Zhang25@yahoo.co.uk,(734) 623-4664,16-May-23,48946.86,Yes,NA-E
+C0167,Rosa Zhang,Rosa.Zhang77@Outlook.COM,+1-924-687-3667,10-Dec-23,25713.95,No,UKI
+C0168,"Jensen, Samir",Samir.Jensen87@Outlook.COM,381.249.5559,11/28/2024,37585.13,Yes,na-e
+C0169,"Moreau, Camila",Camila.Moreau1@Outlook.COM,,2024-11-07,48608 USD,N,uki
+C0170,Darius Ibrahim ,Darius.Ibrahim32@proton.me,232.795.3885,,"$22,488.55",FALSE,APAC-N
+C0171,"Vogel, Bianca",Bianca.Vogel84@gmail.com,,2024-02-06,45168.67,yes,?
+C0172,Chen  Wang,Chen.Wang31@yahoo.co.uk,+1-227-616-3225,12/30/2024,32396 USD,yes,NA-E
+C0173,  TARIQ MOREAU ,Tariq.Moreau17@gmail.com,(299) 603-3877,04/29/2022,3101 USD,No, NA-W
+C0174,Hana Bennett ,Hana.Bennett80@yahoo.co.uk,+1-495-566-9455,01/31/2022,36345.03,Yes,na-e
+C0175,Ada Kowalski ,Ada.Kowalski73@proton.me,,2022-10-16,"$47,154.53",no, NA-W
+C0176,Ravi Alvarez ,Ravi.Alvarez32@Outlook.COM,2205133473,2022-10-25,43294 USD,TRUE, NA-W
+C0177,Nadia  Chen,Nadia.Chen28@proton.me,720.516.2159,,n/a,FALSE,APAC-N
+C0178,Zara Vargas,Zara.Vargas59@corp.example,+1-240-638-6835,28-Feb-23,40075.53,yes,APAC-N
+C0179,Bao  Fontaine,Bao.Fontaine64@corp.example,+1-843-868-5533,2022-12-21,"$31,895.64",yes, NA-W
+C0180,Bruno Lindqvist,Bruno.Lindqvist33@proton.me,(852) 352-9298,15-Jun-24,19966.84,no,?
+C0181,"Petrov, Zara",Zara.Petrov62@yahoo.co.uk,(717) 346-1979,,"$13,212.51",Yes, NA-W
+C0182,Mei  Garcia,Mei.Garcia42@yahoo.co.uk,,,"$1,955.81",Yes,UKI
+C0183,Darius Toure ,Darius.Toure38@corp.example,+1-745-226-4585,24-Feb-23,4889 USD,No,uki
+C0184,"Andersen, Lucia",Lucia.Andersen93@corp.example,929.557.2960,01-Jan-24,22875 USD,yes,APAC-N
+C0185,Bruno  Moreau,Bruno.Moreau40@gmail.com,+1-708-333-8252,2024-09-24,15704.01,,?
+C0185,Bruno  Moreau,Bruno.Moreau40@gmail.com,+1-708-333-8252,2024-09-24,15704.01,,?
+C0186,Samir Andersen,Samir.Andersen51@proton.me,2425437575,18-Sep-22,14986.73,FALSE,uki
+C0187,Greta Bennett ,Greta.Bennett58@gmail.com,8101513494,2023-02-18,n/a,No,NA-E
+C0188,  BIANCA DAHL ,Bianca.Dahl73@Outlook.COM,,02/07/2022,n/a,Yes,APAC-N
+C0189,  MEI ERIKSEN ,Mei.Eriksen76@Outlook.COM,2211519903,03/13/2025,"$37,019.63",FALSE,DACH
+C0190,  DARIUS LINDQVIST ,Darius.Lindqvist60@Outlook.COM,427.393.3493,,"$21,791.33",yes,uki
+C0191,Aria  Weber,Aria.Weber90@Outlook.COM,724.583.9730,11-Oct-23,n/a,N, NA-W
+C0192,"Andersen, Liam",Liam.Andersen40@Outlook.COM,,28-Apr-24,46292 USD,Y,NA-E
+C0193,  JULIA MARCHETTI ,Julia.Marchetti75@proton.me,+1-383-514-4800,2024-04-09,2847.31,,uki
+C0194,Camila  Eriksen,Camila.Eriksen17@gmail.com,2060814801,04/17/2023,"$5,506.46",N,DACH
+C0195,Samir  Dahl,Samir.Dahl90@corp.example,,2022-12-21,n/a,TRUE,?
+C0196,  JONAS ZHANG ,Jonas.Zhang31@proton.me,(534) 645-9491,02/14/2023,"$22,172.16",TRUE, NA-W
+C0197,Petra Andersen ,Petra.Andersen40@proton.me,,,38425 USD,Y,APAC-N
+C0198,  TOMAS HADDAD ,Tomas.Haddad32@proton.me,+1-207-530-8155,,n/a,N,na-e
+C0199,"Andersen, Ravi",Ravi.Andersen57@gmail.com,467.727.8850,2025-06-12,"$9,119.60",No, NA-W
+C0200,Caleb Singh,Caleb.Singh71@yahoo.co.uk,(902) 235-2236,28-Aug-22,"$4,383.59",No,?
+C0201,Fatima  Marchetti,Fatima.Marchetti75@corp.example,5652479347,30-Jan-25,45412.65,N, NA-W
+C0202,Malik  Toure,Malik.Toure16@Outlook.COM,,,n/a,TRUE,UKI
+C0203,  ZOE ANDERSEN ,Zoe.Andersen48@yahoo.co.uk,640.487.2930,01-Jun-24,37186.96,yes,NA-E
+C0204,  RANIA DELGADO ,Rania.Delgado14@gmail.com,(576) 868-8094,,"$39,843.42",yes, NA-W
+C0205,"Alvarez, Ada",Ada.Alvarez21@yahoo.co.uk,371.823.8220,2022-10-08,"$29,377.78",Y,?
+C0206,Rania Petrov ,Rania.Petrov44@proton.me,2336716551,17-Jun-24,17153 USD,Yes,na-e
+C0207,Yusuf Iversen,Yusuf.Iversen82@gmail.com,9439780333,07/23/2022,"$6,546.88",,UKI
+C0208,"Khan, Petra",Petra.Khan16@corp.example,+1-758-486-1601,2024-09-28,46294.03,FALSE,NA-E
+C0209,"Garcia, Jonas",Jonas.Garcia57@Outlook.COM,505.460.1902,09/23/2022,"$26,013.48",Y,na-e
+C0210,Yara  Laurent,Yara.Laurent87@proton.me,+1-440-722-3210,22-Jan-24,2217 USD,FALSE,na-e
+C0211,Felix Fontaine,Felix.Fontaine46@yahoo.co.uk,(973) 563-7940,04/11/2022,47471 USD,TRUE, NA-W
+C0212,"Alvarez, Amara",Amara.Alvarez69@yahoo.co.uk,,06/26/2022,"$47,348.27",N,APAC-N
+C0212X,"ALVAREZ, AMARA",Amara.Alvarez69@yahoo.co.uk,,06/26/2022,"$47,348.27",N,APAC-N
+C0213,Felix  Rossi,Felix.Rossi77@corp.example,+1-874-401-3614,,"$10,078.51",N,?
+C0214,"Zimmerman, Chen",Chen.Zimmerman10@Outlook.COM,+1-708-599-5319,2025-04-06,22117 USD,Y,DACH
+C0215,"Haddad, Fatima",Fatima.Haddad63@gmail.com,,2024-07-23,29438 USD,N,?
+C0216,Paulo Bakker ,Paulo.Bakker60@yahoo.co.uk,7925909798,02/10/2025,44092 USD,Y,UKI
+C0217,Hugo  Alvarez,Hugo.Alvarez74@Outlook.COM,+1-585-847-6222,10/21/2022,n/a,Yes,DACH
+C0218,  ADA OKAFOR ,Ada.Okafor67@yahoo.co.uk,(896) 422-5822,02/07/2025,42664.04,No,na-e
+C0219,  OLGA CHEN ,Olga.Chen62@Outlook.COM,923.796.1287,08/28/2024,"$32,590.81",No,?
+C0220,  PETRA WEBER ,Petra.Weber59@Outlook.COM,(505) 546-3483,,36256.00,,na-e
+C0221,Omar Vargas ,Omar.Vargas5@corp.example,+1-538-237-9687,2023-09-02,23319.96,yes,DACH
+C0222,Sana Haddad ,Sana.Haddad86@proton.me,,,n/a,FALSE,UKI
+C0222,Sana Haddad ,Sana.Haddad86@proton.me,,,n/a,FALSE,UKI
+C0223,"Carvalho, Caleb",Caleb.Carvalho71@proton.me,(223) 464-2941,11/28/2024,"$35,079.44",Yes,DACH
+C0224,Nadia Eriksen ,Nadia.Eriksen63@proton.me,+1-825-758-1512,2025-01-01,13765.40,N,?
+C0225,  ADA OYELARAN ,Ada.Oyelaran83@gmail.com,4919640894,2024-03-30,35495 USD,,UKI
+C0226,Emeka Fontaine,Emeka.Fontaine70@yahoo.co.uk,508.234.9466,06/13/2022,6463.49,FALSE,DACH
+C0227,Nikolai Vargas ,Nikolai.Vargas7@gmail.com,814.837.7938,,30254 USD,,?
+C0228,Mei  Vargas,Mei.Vargas41@Outlook.COM,,11-Jan-25,35803.00,No, NA-W
+C0229,Zoe  Carvalho,Zoe.Carvalho13@gmail.com,+1-380-692-7263,02/11/2023,47017.77,TRUE,DACH
+C0230,Ivan Andersen,Ivan.Andersen58@Outlook.COM,+1-784-420-6878,,7786 USD,FALSE,UKI
+C0231,"Khan, Felix",Felix.Khan97@corp.example,9484921290,04/24/2025,16238.16,Y,APAC-N
+C0232,"Delgado, Bianca",Bianca.Delgado26@yahoo.co.uk,774.256.5853,02-Jul-25,19252 USD,Y,?
+C0233,Hana Eriksen,Hana.Eriksen58@yahoo.co.uk,4639946097,,26260.24,no,APAC-N
+C0234,Darius Rossi,Darius.Rossi83@Outlook.COM,+1-970-645-5613,07/05/2023,39314 USD,no,UKI
+C0235,Liam Marchetti,Liam.Marchetti49@Outlook.COM,,22-May-24,"$19,409.40",FALSE, NA-W
+C0236,  TARIQ ZHANG ,Tariq.Zhang27@corp.example,740.662.1183,06-Oct-22,n/a,,NA-E
+C0237,Liam Quintero ,Liam.Quintero45@gmail.com,+1-962-901-2561,08-Jan-23,7953 USD,N,uki
+C0238,Julia Costa ,Julia.Costa85@proton.me,,02/06/2025,n/a,, NA-W
+C0239,Liam Moreau,Liam.Moreau90@Outlook.COM,423.709.2670,2022-05-03,15160.30,No, NA-W
+C0240,"Nakamura, Thea",Thea.Nakamura27@proton.me,7422824892,2022-08-31,29284.68,TRUE,?
+C0241,Darius Yilmaz ,Darius.Yilmaz73@yahoo.co.uk,(476) 803-7618,12-Mar-25,10239.12,,na-e
+C0242,"Iversen, Jonas",Jonas.Iversen64@corp.example,(291) 904-1389,2025-05-12,n/a,No,NA-E
+C0243,"Oyelaran, Fatima",Fatima.Oyelaran9@yahoo.co.uk,(322) 897-6037,2025-06-21,35448 USD,No,APAC-N
+C0244,"Carvalho, Adaeze",Adaeze.Carvalho75@Outlook.COM,,2022-02-26,"$42,570.48",,NA-E
+C0245,Elena  Tanaka,Elena.Tanaka83@yahoo.co.uk,+1-203-517-5027,06/24/2024,"$28,303.67",No,UKI
+C0246,  SANA WEBER ,Sana.Weber45@yahoo.co.uk,(756) 885-5072,03-Sep-24,n/a,TRUE,NA-E
+C0247,Yusuf Quintero,Yusuf.Quintero34@proton.me,3629605646,04-Jun-23,8333.42,,?
+C0248,  NADIA MBEKI ,Nadia.Mbeki72@corp.example,451.312.1261,19-Nov-22,24617.93,,?
+C0249,Samir  Yilmaz,Samir.Yilmaz41@corp.example,(772) 872-4292,30-Jun-25,n/a,yes,na-e
+C0250,"Eriksen, Chen",Chen.Eriksen23@gmail.com,,,43722.81,Y,na-e
+C0251,Lara  Eriksen,Lara.Eriksen55@corp.example,6239436418,,"$6,278.20",FALSE,DACH
+C0252,Rosa Carvalho ,Rosa.Carvalho49@Outlook.COM,(644) 920-9576,07-Oct-24,n/a,FALSE,APAC-N
+C0253,Chen Bennett ,Chen.Bennett87@proton.me,+1-471-937-4437,28-Feb-23,16565 USD,TRUE,UKI
+C0254,"Khan, Petra",Petra.Khan73@gmail.com,6927830147,,29639 USD,N,UKI
+C0255,Julia Kaur,Julia.Kaur37@Outlook.COM,+1-879-551-7762,2022-06-30,30764 USD,TRUE,UKI
+C0256,Mei  Marchetti,Mei.Marchetti49@corp.example,826.668.6279,04/17/2025,5420.55,Yes, NA-W
+C0257,  VIKTOR OKAFOR ,Viktor.Okafor86@corp.example,6926406955,06/09/2023,"$22,202.56",Yes,DACH
+C0258,Malik Bakker,Malik.Bakker40@yahoo.co.uk,,03-Apr-23,n/a,TRUE,UKI
+C0259,  BIANCA KHAN ,Bianca.Khan69@corp.example,,2023-01-25,n/a,yes,APAC-N
+C0259,  BIANCA KHAN ,Bianca.Khan69@corp.example,,2023-01-25,n/a,yes,APAC-N
+C0260,Greta Toure ,Greta.Toure89@gmail.com,,09/25/2024,n/a,Yes, NA-W
+C0261,  ROSA CARVALHO ,Rosa.Carvalho50@corp.example,(722) 308-8865,2022-03-24,46744.55,Y,NA-E
+C0262,Darius  Hoffmann,Darius.Hoffmann91@proton.me,842.709.8079,23-Sep-24,44180.03,FALSE,na-e
+C0263,"Tanaka, Felix",Felix.Tanaka67@corp.example,2293368319,07/14/2023,n/a,yes,na-e
+C0264,Tomas Hoffmann ,Tomas.Hoffmann9@proton.me,+1-887-514-1966,,30680 USD,no,?
+C0265,  SANA SORENSEN ,Sana.Sorensen94@gmail.com,8158590058,24-Jun-23,"$35,319.46",Y,APAC-N
+C0265X,  SANA SORENSEN ,Sana.Sorensen94@gmail.com,8158590058,24-Jun-23,"$35,319.46",Y,APAC-N
+C0266,Tomas  Jensen,Tomas.Jensen93@corp.example,+1-661-346-2279,12/20/2023,"$26,775.86",no, NA-W
+C0267,"Kowalski, Wei",Wei.Kowalski70@Outlook.COM,5425763987,01/18/2022,39571 USD,yes,NA-E
+C0268,  LARA MARCHETTI ,Lara.Marchetti57@yahoo.co.uk,+1-293-312-8868,2024-12-28,"$6,362.40",No, NA-W
+C0269,"Zhang, Samir",Samir.Zhang76@Outlook.COM,7784651289,16-May-25,n/a,Yes,DACH
+C0270,"Fontaine, Ada",Ada.Fontaine52@gmail.com,(800) 669-2163,11/14/2023,46642.07,No, NA-W
+C0271,  DANIELA OKAFOR ,Daniela.Okafor53@Outlook.COM,8754808815,23-Jul-25,"$42,853.19",no,UKI
+C0272,Bao Abara ,Bao.Abara22@Outlook.COM,539.949.6787,09-May-24,"$46,342.36",yes,NA-E
+C0273,Rosa Sorensen,Rosa.Sorensen37@corp.example,832.895.5234,,n/a,no,NA-E
+C0274,  JULIA KHAN ,Julia.Khan72@proton.me,,10-Jul-25,n/a,N,UKI
+C0275,Darius Singh,Darius.Singh95@proton.me,6656421255,2022-01-27,n/a,No,?
+C0276,Sana Toure,Sana.Toure54@proton.me,3014495114,,"$11,478.79",Yes,na-e
+C0277,Julia Alvarez ,Julia.Alvarez10@proton.me,,,"$49,185.73",TRUE,NA-E
+C0278,Darius Bennett ,Darius.Bennett86@yahoo.co.uk,4450532172,02-Oct-23,n/a,no,UKI
+C0279,Rania  Mbeki,Rania.Mbeki98@yahoo.co.uk,+1-480-786-1988,2024-06-24,n/a,No,APAC-N
+C0280,Yara Fontaine,Yara.Fontaine54@yahoo.co.uk,,10-Jan-22,n/a,no,NA-E
+C0281,Kwame Toure ,Kwame.Toure43@Outlook.COM,(382) 935-6538,2023-11-16,n/a,Y, NA-W
+C0282,"Carvalho, Liam",Liam.Carvalho47@corp.example,6606869196,2024-11-17,24556 USD,N,UKI
+C0283,Jonas Delgado ,Jonas.Delgado45@yahoo.co.uk,929.536.5042,03/02/2022,n/a,Y, NA-W
+C0284,Nadia Wang,Nadia.Wang39@gmail.com,(904) 255-8327,,11765.60,Y,UKI
+C0285,"Bakker, Ines",Ines.Bakker90@Outlook.COM,,2024-03-13,n/a,yes,NA-E
+C0286,Zara Petrov,Zara.Petrov13@corp.example,(758) 299-2259,01/12/2025,"$2,063.29",,DACH
+C0287,Ivan Novak ,Ivan.Novak81@corp.example,225.964.5851,,"$26,738.53",TRUE,UKI
+C0288,Yusuf Zhang,Yusuf.Zhang21@proton.me,8224794379,02/02/2024,n/a,no, NA-W
+C0289,  BRUNO BAKKER ,Bruno.Bakker84@yahoo.co.uk,+1-714-339-1254,,11765 USD,yes,DACH
+C0290,Wei  Moreau,Wei.Moreau13@yahoo.co.uk,,12-Mar-22,n/a,, NA-W
+C0291,Mei Petrov ,Mei.Petrov62@Outlook.COM,,,"$9,734.71",Yes,NA-E
+C0292,  BRUNO LINDQVIST ,Bruno.Lindqvist68@gmail.com,415.849.1224,05/19/2023,n/a,FALSE, NA-W
+C0293,"Wang, Thea",Thea.Wang53@Outlook.COM,,09-Jan-23,10223.18,yes, NA-W
+C0294,Amara  Marchetti,Amara.Marchetti30@gmail.com,,21-Feb-24,n/a,FALSE,?
+C0295,Bianca Wang ,Bianca.Wang21@Outlook.COM,,17-Feb-22,"$49,270.83",No,DACH
+C0296,Viktor Singh ,Viktor.Singh98@gmail.com,,04/23/2022,"$25,245.26",FALSE,APAC-N
+C0296,Viktor Singh ,Viktor.Singh98@gmail.com,,04/23/2022,"$25,245.26",FALSE,APAC-N
+C0297,Bianca Okafor ,Bianca.Okafor15@gmail.com,824.729.7510,2022-11-25,"$47,463.86",,na-e
+C0298,Tariq Tanaka ,Tariq.Tanaka35@proton.me,9474264343,,"$35,981.77",yes,uki
+C0299,Sana Alvarez,Sana.Alvarez34@gmail.com,,04/29/2024,n/a,Yes,?
+C0300,Greta  Nakamura,Greta.Nakamura39@corp.example,6321126999,2023-01-10,10750 USD,no,APAC-N
+C0301,Felix Petrov,Felix.Petrov74@yahoo.co.uk,+1-557-205-6023,2022-12-14,3375 USD,no,na-e
+C0302,Rania Weber,Rania.Weber19@yahoo.co.uk,+1-482-836-3802,05/05/2023,14226.17,FALSE,DACH
+C0303,  ELENA IVERSEN ,Elena.Iversen23@corp.example,(624) 948-1474,2024-11-03,n/a,No,UKI
+C0304,"Haddad, Bruno",Bruno.Haddad60@Outlook.COM,487.727.6090,,"$2,967.71",no,?
+C0305,Viktor Lindqvist ,Viktor.Lindqvist27@corp.example,(585) 664-2916,2022-07-20,"$39,032.97",,?
+C0306,Elena  Moreau,Elena.Moreau48@yahoo.co.uk,784.456.2916,2024-10-01,n/a,yes, NA-W
+C0307,"Bakker, Liam",Liam.Bakker46@proton.me,,15-Jul-25,n/a,N,na-e
+C0308,Jonas Nakamura ,Jonas.Nakamura70@yahoo.co.uk,(814) 464-7119,2023-01-31,18934.72,yes,na-e
+C0309,Zara Andersen ,Zara.Andersen8@corp.example,(224) 444-5942,2025-03-05,31289.85,No, NA-W
+C0310,Bao  Toure,Bao.Toure87@corp.example,502.978.3153,2023-01-09,n/a,yes,DACH
+C0311,Yusuf Zhang ,Yusuf.Zhang68@gmail.com,(846) 302-5471,,n/a,Y,uki
+C0312,"Quintero, Nadia",Nadia.Quintero35@proton.me,+1-300-574-3158,06/07/2024,"$48,339.73",TRUE,APAC-N
+C0313,Yusuf Quintero ,Yusuf.Quintero49@Outlook.COM,,09/20/2023,n/a,Y,?
+C0314,Rania Kowalski ,Rania.Kowalski31@gmail.com,+1-920-348-2139,26-Apr-25,38633.41,yes, NA-W
+C0315,Ravi Toure,Ravi.Toure81@proton.me,+1-763-481-3429,10/07/2023,n/a,no,APAC-N
+C0316,  WEI MOREAU ,Wei.Moreau7@proton.me,823.960.4168,,10195 USD,Y, NA-W
+C0317,Rania Wang,Rania.Wang27@yahoo.co.uk,(350) 932-9979,09-Jul-22,33142 USD,No,APAC-N
+C0318,  BRUNO WANG ,Bruno.Wang30@Outlook.COM,5361627676,2024-02-06,"$18,493.69",N,DACH
+C0318X,  BRUNO WANG ,Bruno.Wang30@Outlook.COM,5361627676,2024-02-06,"$18,493.69",N,DACH
+C0319,Ines Oyelaran,Ines.Oyelaran50@Outlook.COM,(891) 857-1602,,31792 USD,TRUE, NA-W
+C0320,Ada  Zhang,Ada.Zhang36@yahoo.co.uk,256.745.5621,24-Mar-24,"$27,060.22",No,UKI
+C0321,Greta  Mbeki,Greta.Mbeki43@Outlook.COM,(252) 883-6160,2025-03-10,n/a,N,APAC-N
+C0322,Amara Eriksen ,Amara.Eriksen50@gmail.com,8725223674,,n/a,TRUE,UKI
+C0323,"Kowalski, Yara",Yara.Kowalski60@yahoo.co.uk,2775403397,2023-05-14,n/a,,NA-E
+C0324,Aria Jensen,Aria.Jensen37@Outlook.COM,(333) 501-8130,20-Apr-23,24533 USD,FALSE,APAC-N
+C0325,"Ibrahim, Julia",Julia.Ibrahim56@corp.example,+1-868-816-3874,,n/a,yes,uki
+C0326,"Dahl, Rosa",Rosa.Dahl85@yahoo.co.uk,+1-780-972-1509,,n/a,No,UKI
+C0327,Ines Ibrahim ,Ines.Ibrahim90@yahoo.co.uk,6912769682,05/29/2024,10496 USD,FALSE,na-e
+C0328,  ARIA QUINTERO ,Aria.Quintero8@gmail.com,(773) 359-6364,2023-07-15,2644 USD,No,APAC-N
+C0329,"Bakker, Sana",Sana.Bakker7@Outlook.COM,2470801649,23-Apr-25,36363 USD,FALSE,NA-E
+C0330,Bao Khan ,Bao.Khan7@yahoo.co.uk,,03/17/2024,19160.45,Y,DACH
+C0331,  CALEB LAURENT ,Caleb.Laurent30@corp.example,+1-211-733-5554,10/28/2022,46740.20,TRUE,APAC-N
+C0332,  RAVI WANG ,Ravi.Wang34@Outlook.COM,+1-607-239-3724,21-Jun-25,22688 USD,N,APAC-N
+C0333,  ZARA VOGEL ,Zara.Vogel9@proton.me,,2024-11-15,19363.52,Y,NA-E
+C0333,  ZARA VOGEL ,Zara.Vogel9@proton.me,,2024-11-15,19363.52,Y,NA-E
+C0334,Lara Fontaine ,Lara.Fontaine74@yahoo.co.uk,(656) 983-5195,,"$2,591.74",no,?
+C0335,Nikolai Garcia,Nikolai.Garcia66@gmail.com,668.833.7099,,"$27,725.00",No,APAC-N
+C0336,"Bennett, Rania",Rania.Bennett32@Outlook.COM,461.638.2405,,n/a,no,na-e
+C0337,  TOMAS ABARA ,Tomas.Abara36@Outlook.COM,(704) 669-1381,2022-05-29,"$27,967.86",yes,uki
+C0338,Lara Singh,Lara.Singh36@yahoo.co.uk,+1-575-535-3749,2022-10-10,6598.80,,?
+C0339,Wei  Dahl,Wei.Dahl86@proton.me,5467921099,,"$38,000.51",no,uki
+C0340,Kwame  Novak,Kwame.Novak83@gmail.com,382.463.1270,,40713.59,yes,APAC-N
+C0341,  JULIA QUINTERO ,Julia.Quintero48@yahoo.co.uk,+1-388-233-9222,2023-01-17,n/a,No,uki
+C0342,  YARA IVERSEN ,Yara.Iversen20@yahoo.co.uk,,11-Nov-24,n/a,No,NA-E
+C0343,"Haddad, Lucia",Lucia.Haddad35@proton.me,842.213.3600,2023-11-05,"$45,945.20",N,NA-E
+C0344,  ZARA MBEKI ,Zara.Mbeki76@gmail.com,,05/10/2023,"$30,856.44",, NA-W
+C0345,Yara Khan ,Yara.Khan2@Outlook.COM,(408) 369-9699,2023-10-30,"$38,365.29",Yes,APAC-N
+C0346,Zara  Khan,Zara.Khan8@yahoo.co.uk,9906094546,07/03/2023,n/a,no,DACH
+C0347,Bruno Nakamura,Bruno.Nakamura16@gmail.com,,2025-06-16,2188.57,no,NA-E
+C0348,Sana Eriksen,Sana.Eriksen33@Outlook.COM,,20-Apr-22,10977.20,,NA-E
+C0349,  UMA ZHANG ,Uma.Zhang23@gmail.com,,09/05/2024,n/a,TRUE,uki
+C0350,  CALEB CHEN ,Caleb.Chen15@yahoo.co.uk,2323216404,,9135 USD,FALSE,uki
+C0351,Ravi Sandoval,Ravi.Sandoval20@Outlook.COM,8558406002,2024-06-11,8316.71,TRUE, NA-W
+C0352,"Ibrahim, Fatima",Fatima.Ibrahim86@proton.me,+1-390-694-6820,01/12/2023,"$17,195.22",FALSE,APAC-N
+C0353,  ZOE DELGADO ,Zoe.Delgado54@gmail.com,644.916.1214,2024-12-24,18910.48,N,NA-E
+C0354,Bruno  Hoffmann,Bruno.Hoffmann87@corp.example,,2022-06-22,"$43,764.28",N,APAC-N
+C0355,"Rossi, Yusuf",Yusuf.Rossi23@Outlook.COM,5419176238,06-Apr-23,35172 USD,FALSE,uki
+C0356,  CAMILA MBEKI ,Camila.Mbeki21@gmail.com,,18-Aug-24,46600.23,Yes,?
+C0357,Malik Tanaka ,Malik.Tanaka19@proton.me,(552) 243-7710,2024-11-13,n/a,No,?
+C0358,Jonas  Haddad,Jonas.Haddad29@Outlook.COM,+1-551-788-6771,02/21/2023,n/a,N, NA-W
+C0359,Liam Eriksen,Liam.Eriksen78@yahoo.co.uk,,2023-04-05,"$7,975.48",yes,na-e
+C0360,Sana Sandoval,Sana.Sandoval7@gmail.com,9510399173,,"$39,051.02",,DACH
+C0361,Sana  Novak,Sana.Novak15@gmail.com,,2025-05-24,26423 USD,FALSE,UKI
+C0362,  CALEB LINDQVIST ,Caleb.Lindqvist72@yahoo.co.uk,,04/28/2023,9087 USD,Yes,APAC-N
+C0363,  INES COSTA ,Ines.Costa42@proton.me,8949035560,25-Nov-24,3972 USD,,UKI
+C0364,Hana Mbeki ,Hana.Mbeki86@corp.example,887.521.9075,12/28/2022,"$40,918.13",Yes,APAC-N
+C0365,  RANIA VOGEL ,Rania.Vogel78@Outlook.COM,433.570.6560,2022-06-07,"$31,351.27",TRUE,APAC-N
+C0366,Julia Dahl ,Julia.Dahl67@yahoo.co.uk,(775) 710-4326,2022-03-08,"$8,958.51",no, NA-W
+C0367,Nikolai Sandoval ,Nikolai.Sandoval41@proton.me,4391149293,2024-10-19,n/a,,?
+C0368,  ARIA TOURE ,Aria.Toure94@corp.example,3267582221,16-Dec-22,"$32,669.06",No,?
+C0369,"Sandoval, Felix",Felix.Sandoval24@gmail.com,(909) 466-2861,2024-07-25,6447.37,TRUE,uki
+C0370,"Tanaka, Hana",Hana.Tanaka90@gmail.com,+1-226-908-4205,2024-09-01,14254 USD,TRUE, NA-W
+C0370,"Tanaka, Hana",Hana.Tanaka90@gmail.com,+1-226-908-4205,2024-09-01,14254 USD,TRUE, NA-W
+C0371,Rania  Tanaka,Rania.Tanaka71@Outlook.COM,524.253.9431,,4044 USD,Yes,DACH
+C0371X,RANIA  TANAKA,Rania.Tanaka71@Outlook.COM,524.253.9431,,4044 USD,Yes,DACH
+C0372,"Laurent, Ines",Ines.Laurent95@yahoo.co.uk,759.453.5105,24-Nov-24,n/a,,DACH
+C0373,Ivan Garcia ,Ivan.Garcia97@Outlook.COM,421.418.6534,06/26/2022,"$20,949.88",No,na-e
+C0374,  RAVI ZHANG ,Ravi.Zhang41@proton.me,783.888.6058,06-Jul-25,"$35,179.43",Y,NA-E
+C0375,  SAMIR CHEN ,Samir.Chen62@gmail.com,6716524217,23-Feb-24,n/a,yes,na-e
+C0376,Caleb Sorensen,Caleb.Sorensen94@yahoo.co.uk,3058377455,,9834 USD,no, NA-W
+C0377,Jonas Vogel ,Jonas.Vogel41@yahoo.co.uk,(656) 464-3287,11-Apr-25,38780 USD,Y, NA-W
+C0378,Zoe Okafor,Zoe.Okafor41@gmail.com,597.960.4411,2022-11-02,19913 USD,Y,UKI
+C0379,"Costa, Lucia",Lucia.Costa75@Outlook.COM,3325445679,2022-05-03,n/a,Yes,na-e
+C0380,Mei Bakker ,Mei.Bakker23@corp.example,,07/18/2024,42987 USD,,na-e
+C0381,  ZARA CHEN ,Zara.Chen6@corp.example,(237) 418-3186,07-Dec-24,"$21,927.14",FALSE,uki
+C0382,"Abara, Nadia",Nadia.Abara7@proton.me,(831) 917-9813,23-Jul-24,6608.23,N,UKI
+C0383,Lucia  Khan,Lucia.Khan46@corp.example,+1-298-317-3482,2024-04-04,"$28,525.45",TRUE,UKI
+C0384,Fatima  Kaur,Fatima.Kaur81@proton.me,+1-294-505-3869,2025-05-24,24163.74,FALSE,na-e
+C0385,Nikolai Lindqvist,Nikolai.Lindqvist17@proton.me,+1-487-578-5310,2024-04-02,"$6,526.31",Y,DACH
+C0386,  THEA KAUR ,Thea.Kaur73@corp.example,,06-Oct-24,5434 USD,Y,APAC-N
+C0387,"Petrov, Thea",Thea.Petrov58@proton.me,256.322.7033,04/24/2023,32837 USD,TRUE,NA-E
+C0388,Viktor Weber,Viktor.Weber91@gmail.com,(863) 658-1332,,n/a,No,NA-E
+C0389,  OMAR SANDOVAL ,Omar.Sandoval48@gmail.com,7456130372,03/22/2023,n/a,TRUE,DACH
+C0390,Malik Nakamura,Malik.Nakamura12@Outlook.COM,813.439.8831,29-Apr-25,"$10,923.05",Y,APAC-N
+C0391,Lara Alvarez ,Lara.Alvarez87@Outlook.COM,,06-Sep-23,39977.92,No,NA-E
+C0392,"Weber, Bianca",Bianca.Weber84@proton.me,315.614.9207,,217.81,FALSE,APAC-N
+C0393,  PAULO ERIKSEN ,Paulo.Eriksen23@yahoo.co.uk,+1-808-657-5264,29-May-23,34634 USD,N,NA-E
+C0394,  ZOE TOURE ,Zoe.Toure32@corp.example,3769798770,,n/a,Y,DACH
+C0395,Lara Fontaine ,Lara.Fontaine72@yahoo.co.uk,(603) 578-7615,18-Jul-22,49350 USD,N,DACH
+C0396,"Weber, Felix",Felix.Weber90@Outlook.COM,7126969650,,42255 USD,N,?
+C0397,Greta Weber ,Greta.Weber79@Outlook.COM,,18-Feb-22,n/a,yes,DACH
+C0398,Amara Zimmerman ,Amara.Zimmerman53@gmail.com,(350) 497-7265,22-Jan-22,n/a,no,NA-E
+C0399,"Alvarez, Julia",Julia.Alvarez1@gmail.com,(271) 944-3365,,16532 USD,No,APAC-N
+C0400,  TOMAS CARVALHO ,Tomas.Carvalho60@yahoo.co.uk,,03/05/2025,21479 USD,Y,na-e

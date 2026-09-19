@@ -1,0 +1,251 @@
+EmployeeID,FirstName,LastName,Email,Department,JobTitle,Level,RegionCode,HireDate,AnnualSalary,BonusPct,WorkMode,ManagerID,LastReviewScore
+EMP-2001,Hana,Petrov,hana.petrov@northwind-analytics.example,Operations,Ops Manager,L4,DACH,2018-06-11,103100,0.003,Onsite,,2.5
+EMP-2002,Sana,Zimmerman,sana.zimmerman@northwind-analytics.example,Marketing,Brand Designer,L3,APAC-S,2017-09-03,101400,0.076,Remote,EMP-2017,3.5
+EMP-2003,Uma,Bakker,uma.bakker@northwind-analytics.example,Finance,AP Specialist,L1,NA-E,2016-01-25,61000,0.195,Onsite,EMP-2039,2.3
+EMP-2004,Liam,Iversen,liam.iversen@northwind-analytics.example,Engineering,QA Engineer,L2,NA-W,2023-12-12,114600,0.247,Onsite,,4.6
+EMP-2005,Paulo,Haddad,paulo.haddad@northwind-analytics.example,Engineering,SRE,L2,NA-E,2023-04-09,114800,0.056,Onsite,EMP-2012,4.4
+EMP-2006,Chen,Kaur,chen.kaur@northwind-analytics.example,Finance,AP Specialist,L1,NA-W,2020-05-01,61000,0.165,Hybrid,,4.0
+EMP-2007,Ines,Okafor,ines.okafor@northwind-analytics.example,Operations,Logistics Coordinator,L3,NA-E,2023-04-10,84800,0.105,Remote,EMP-2003,4.1
+EMP-2008,Ines,Andersen,ines.andersen@northwind-analytics.example,Engineering,SRE,L1,UKI,2023-08-31,82000,0.204,Remote,,4.9
+EMP-2009,Omar,Khan,omar.khan@northwind-analytics.example,People,Recruiter,L1,DACH,2015-05-09,52000,0.081,Hybrid,,3.7
+EMP-2010,Ivan,Laurent,ivan.laurent@northwind-analytics.example,Operations,Operations Analyst,L3,DACH,2015-11-12,90800,0.069,Onsite,,4.8
+EMP-2011,Olga,Carvalho,olga.carvalho@northwind-analytics.example,Sales,Sales Manager,L2,UKI,2019-03-27,86400,0.069,Remote,EMP-2020,4.7
+EMP-2012,Liam,Dahl,liam.dahl@northwind-analytics.example,Support,Support Specialist,L3,NA-E,2015-05-17,71500,0.05,Onsite,EMP-2024,3.4
+EMP-2013,Felix,Delgado,felix.delgado@northwind-analytics.example,Marketing,Demand Gen Manager,L4,APAC-N,2023-06-07,121300,0.17,Onsite,EMP-2024,2.8
+EMP-2014,Mei,Wang,mei.wang@northwind-analytics.example,Support,Support Lead,L4,LATAM,2024-04-15,94100,0.126,Onsite,,2.2
+EMP-2015,Yara,Lindqvist,yara.lindqvist@northwind-analytics.example,Support,Support Lead,L4,NA-E,2019-04-02,94400,0.209,Hybrid,EMP-2037,3.5
+EMP-2016,Hana,Quintero,hana.quintero@northwind-analytics.example,Engineering,QA Engineer,L3,UKI,2014-12-22,150900,0.236,Hybrid,EMP-2006,2.7
+EMP-2017,Elena,Yilmaz,elena.yilmaz@northwind-analytics.example,Sales,Sales Manager,L1,DACH,2018-09-25,58000,0.226,Hybrid,EMP-2005,3.4
+EMP-2018,Omar,Nakamura,omar.nakamura@northwind-analytics.example,Operations,Operations Analyst,L3,APAC-N,2022-08-06,86700,0.13,Remote,,3.7
+EMP-2019,Uma,Laurent,uma.laurent@northwind-analytics.example,Operations,Operations Analyst,L3,UKI,2014-10-29,89300,0.133,Onsite,EMP-2020,2.5
+EMP-2020,Darius,Jensen,darius.jensen@northwind-analytics.example,Finance,Financial Analyst,L1,LATAM,2025-03-25,61000,0.24,Onsite,,4.7
+EMP-2021,Rosa,Singh,rosa.singh@northwind-analytics.example,Marketing,Content Strategist,L1,UKI,2022-03-01,54000,0.146,Hybrid,,3.7
+EMP-2022,Amara,Alvarez,amara.alvarez@northwind-analytics.example,Engineering,QA Engineer,L2,UKI,2021-03-26,113800,0.07,Onsite,,3.5
+EMP-2023,Sana,Bakker,sana.bakker@northwind-analytics.example,Marketing,Demand Gen Manager,L3,UKI,2015-06-22,102700,0.123,Hybrid,EMP-2016,3.6
+EMP-2024,Tariq,Wang,tariq.wang@northwind-analytics.example,Engineering,Engineering Manager,L5,APAC-S,2023-01-16,199300,0.0,Remote,EMP-2017,4.7
+EMP-2025,Ada,Delgado,ada.delgado@northwind-analytics.example,Finance,Financial Analyst,L1,NORDIC,2019-08-07,61000,0.151,Hybrid,EMP-2001,3.3
+EMP-2026,Darius,Quintero,darius.quintero@northwind-analytics.example,Marketing,Demand Gen Manager,L3,NA-W,2025-06-27,95500,0.114,Hybrid,,3.3
+EMP-2027,Olga,Dahl,olga.dahl@northwind-analytics.example,People,Recruiter,L5,LATAM,2024-05-18,136600,0.048,Remote,EMP-2039,3.8
+EMP-2028,Hugo,Bennett,hugo.bennett@northwind-analytics.example,Finance,Financial Analyst,L2,APAC-S,2019-09-28,86500,0.109,Hybrid,EMP-2025,3.4
+EMP-2029,Aria,Jensen,aria.jensen@northwind-analytics.example,Marketing,Content Strategist,L4,NA-W,2022-11-17,112200,0.25,Hybrid,,2.6
+EMP-2030,Darius,Delgado,darius.delgado@northwind-analytics.example,Operations,Logistics Coordinator,L3,APAC-N,2015-12-02,89300,0.195,Hybrid,EMP-2006,4.5
+EMP-2031,Camila,Alvarez,camila.alvarez@northwind-analytics.example,Sales,Sales Manager,L4,NA-W,2017-05-25,142600,0.036,Hybrid,EMP-2008,2.4
+EMP-2032,Olga,Khan,olga.khan@northwind-analytics.example,Engineering,Engineering Manager,L1,LATAM,2024-07-04,82000,0.079,Hybrid,,2.5
+EMP-2033,Samir,Vargas,samir.vargas@northwind-analytics.example,Engineering,QA Engineer,L1,APAC-N,2025-04-15,82000,0.068,Onsite,EMP-2005,2.6
+EMP-2034,Lucia,Fontaine,lucia.fontaine@northwind-analytics.example,Engineering,QA Engineer,L4,LATAM,2017-06-03,183900,0.073,Hybrid,,2.7
+EMP-2035,Bruno,Novak,bruno.novak@northwind-analytics.example,Finance,Controller,L1,NA-E,2016-07-06,61000,0.031,Remote,,2.3
+EMP-2036,Zara,Vogel,zara.vogel@northwind-analytics.example,Support,Support Lead,L2,DACH,2019-10-11,59600,0.024,Onsite,EMP-2027,3.5
+EMP-2037,Rania,Andersen,rania.andersen@northwind-analytics.example,Finance,AP Specialist,L2,DACH,2024-06-25,87400,0.192,Remote,,3.8
+EMP-2038,Ada,Okafor,ada.okafor@northwind-analytics.example,Support,Support Specialist,L4,LATAM,2016-07-04,92500,0.222,Onsite,EMP-2026,2.6
+EMP-2039,Nikolai,Vogel,nikolai.vogel@northwind-analytics.example,Support,Support Specialist,L1,APAC-N,2017-04-03,42000,0.091,Hybrid,,4.3
+EMP-2040,Elena,Singh,elena.singh@northwind-analytics.example,People,People Ops Coordinator,L2,LATAM,2024-03-28,74800,0.027,Hybrid,EMP-2035,3.9
+EMP-2041,Aria,Toure,aria.toure@northwind-analytics.example,Finance,AP Specialist,L2,NORDIC,2023-12-26,82800,0.011,Onsite,,3.0
+EMP-2042,Camila,Vargas,camila.vargas@northwind-analytics.example,People,HR Business Partner,L2,APAC-N,2021-05-18,73000,0.149,Remote,,4.6
+EMP-2043,Sana,Laurent,sana.laurent@northwind-analytics.example,Sales,Account Executive,L3,DACH,2024-01-26,108600,0.135,Remote,,2.2
+EMP-2044,Ravi,Lindqvist,ravi.lindqvist@northwind-analytics.example,Engineering,SRE,L3,NORDIC,2017-08-20,155300,0.033,Hybrid,,2.7
+EMP-2045,Hugo,Wang,hugo.wang@northwind-analytics.example,Operations,Operations Analyst,L2,NORDIC,2018-05-27,67900,0.032,Remote,EMP-2003,3.9
+EMP-2046,Malik,Marchetti,malik.marchetti@northwind-analytics.example,Finance,Financial Analyst,L2,NA-W,2015-12-28,84900,0.115,Remote,EMP-2035,2.9
+EMP-2047,Nikolai,Weber,nikolai.weber@northwind-analytics.example,Sales,Sales Engineer,L2,NA-E,2023-03-22,87600,0.029,Remote,EMP-2031,2.2
+EMP-2048,Nadia,Quintero,nadia.quintero@northwind-analytics.example,Support,Support Lead,L2,NA-E,2016-08-19,58600,0.231,Hybrid,,4.6
+EMP-2049,Bruno,Eriksen,bruno.eriksen@northwind-analytics.example,Sales,SDR,L4,NORDIC,2022-04-18,143100,0.025,Hybrid,EMP-2007,4.2
+EMP-2050,Tariq,Weber,tariq.weber@northwind-analytics.example,People,People Ops Coordinator,L3,UKI,2020-03-05,92600,0.087,Hybrid,EMP-2026,2.7
+EMP-2051,Petra,Vargas,petra.vargas@northwind-analytics.example,Finance,AP Specialist,L3,UKI,2025-04-10,104700,0.179,Onsite,EMP-2014,4.0
+EMP-2052,Chen,Bennett,chen.bennett@northwind-analytics.example,Sales,Sales Engineer,L3,NA-E,2017-03-20,106700,0.166,Hybrid,EMP-2018,3.1
+EMP-2053,Ivan,Wang,ivan.wang@northwind-analytics.example,People,Recruiter,L3,APAC-N,2020-02-07,92700,0.243,Remote,EMP-2021,3.5
+EMP-2054,Thea,Sorensen,thea.sorensen@northwind-analytics.example,Operations,Logistics Coordinator,L2,LATAM,2024-08-10,67000,0.201,Remote,,3.7
+EMP-2055,Nadia,Haddad,nadia.haddad@northwind-analytics.example,Marketing,Brand Designer,L3,NA-E,2025-01-21,98500,0.011,Onsite,,2.2
+EMP-2056,Sana,Oyelaran,sana.oyelaran@northwind-analytics.example,Support,Support Specialist,L3,NA-W,2016-05-12,72200,0.073,Hybrid,EMP-2019,2.9
+EMP-2057,Sana,Carvalho,sana.carvalho@northwind-analytics.example,Finance,Financial Analyst,L1,DACH,2022-09-10,61000,0.117,Onsite,EMP-2037,3.3
+EMP-2058,Darius,Eriksen,darius.eriksen@northwind-analytics.example,Support,Technical Account Manager,L1,DACH,2020-01-23,42000,0.09,Hybrid,,4.4
+EMP-2059,Yusuf,Laurent,yusuf.laurent@northwind-analytics.example,Marketing,Content Strategist,L4,NORDIC,2023-07-19,121100,0.091,Remote,,4.8
+EMP-2060,Wei,Dahl,wei.dahl@northwind-analytics.example,Marketing,Brand Designer,L3,DACH,2021-05-02,97700,0.007,Hybrid,EMP-2005,4.6
+EMP-2061,Uma,Bakker,uma.bakker@northwind-analytics.example,Finance,Controller,L4,NA-E,2022-12-03,133100,0.207,Hybrid,EMP-2027,4.0
+EMP-2062,Lucia,Marchetti,lucia.marchetti@northwind-analytics.example,Operations,Ops Manager,L3,DACH,2024-04-30,90100,0.102,Onsite,,2.2
+EMP-2063,Aria,Vogel,aria.vogel@northwind-analytics.example,Engineering,QA Engineer,L1,APAC-S,2017-09-24,82000,0.024,Remote,,2.8
+EMP-2064,Greta,Ibrahim,greta.ibrahim@northwind-analytics.example,Engineering,Engineering Manager,L2,DACH,2017-06-29,112400,0.106,Onsite,EMP-2029,4.5
+EMP-2065,Yara,Carvalho,yara.carvalho@northwind-analytics.example,Operations,Operations Analyst,L1,LATAM,2019-10-13,48000,0.115,Remote,EMP-2028,2.8
+EMP-2066,Daniela,Lindqvist,daniela.lindqvist@northwind-analytics.example,Finance,Controller,L1,UKI,2017-10-29,61000,0.056,Hybrid,,3.5
+EMP-2067,Hana,Andersen,hana.andersen@northwind-analytics.example,Operations,Operations Analyst,L1,DACH,2021-09-28,48000,0.162,Remote,,4.0
+EMP-2068,Kwame,Alvarez,kwame.alvarez@northwind-analytics.example,Support,Technical Account Manager,L1,LATAM,2019-05-26,42000,0.171,Hybrid,,3.6
+EMP-2069,Jonas,Chen,jonas.chen@northwind-analytics.example,Engineering,QA Engineer,L2,NA-W,2019-01-12,114700,0.01,Hybrid,EMP-2016,2.7
+EMP-2070,Samir,Haddad,samir.haddad@northwind-analytics.example,People,HR Business Partner,L2,NA-E,2018-10-25,73000,0.11,Hybrid,EMP-2034,3.9
+EMP-2071,Tomas,Vargas,tomas.vargas@northwind-analytics.example,Operations,Operations Analyst,L4,NA-E,2023-12-24,108400,0.042,Hybrid,,3.7
+EMP-2072,Emeka,Alvarez,emeka.alvarez@northwind-analytics.example,Engineering,Engineering Manager,L2,NA-E,2015-10-05,119100,0.049,Hybrid,EMP-2001,3.6
+EMP-2073,Fatima,Haddad,fatima.haddad@northwind-analytics.example,Finance,Financial Analyst,L4,LATAM,2018-03-04,132100,0.182,Hybrid,,3.7
+EMP-2074,Nadia,Khan,nadia.khan@northwind-analytics.example,Marketing,Demand Gen Manager,L3,DACH,2018-07-13,103100,0.048,Onsite,,3.3
+EMP-2075,Ada,Petrov,ada.petrov@northwind-analytics.example,Support,Support Specialist,L3,LATAM,2022-01-28,75100,0.207,Onsite,EMP-2031,4.4
+EMP-2076,Bao,Yilmaz,bao.yilmaz@northwind-analytics.example,People,People Ops Coordinator,L3,NA-E,2019-07-31,97000,0.138,Remote,EMP-2025,4.3
+EMP-2077,Adaeze,Oyelaran,adaeze.oyelaran@northwind-analytics.example,Sales,SDR,L2,LATAM,2014-05-31,82000,0.14,Remote,,3.6
+EMP-2078,Darius,Lindqvist,darius.lindqvist@northwind-analytics.example,Engineering,QA Engineer,L1,APAC-S,2018-08-05,82000,0.082,Hybrid,,3.6
+EMP-2079,Chen,Rossi,chen.rossi@northwind-analytics.example,People,People Ops Coordinator,L2,NA-E,2015-01-29,72200,0.102,Hybrid,EMP-2001,3.7
+EMP-2080,Yara,Wang,yara.wang@northwind-analytics.example,Support,Technical Account Manager,L4,NA-E,2021-12-13,95400,0.03,Onsite,,2.9
+EMP-2081,Nadia,Nakamura,nadia.nakamura@northwind-analytics.example,Sales,Sales Manager,L1,DACH,2019-03-08,58000,0.013,Hybrid,,2.8
+EMP-2082,Malik,Lindqvist,malik.lindqvist@northwind-analytics.example,People,People Ops Coordinator,L3,DACH,2024-11-20,91500,0.245,Hybrid,,4.5
+EMP-2083,Camila,Fontaine,camila.fontaine@northwind-analytics.example,Sales,Sales Manager,L2,APAC-S,2015-05-05,84700,0.225,Onsite,EMP-2006,4.6
+EMP-2084,Wei,Quintero,wei.quintero@northwind-analytics.example,Support,Technical Account Manager,L3,APAC-S,2018-04-18,72400,0.053,Hybrid,,3.4
+EMP-2085,Jonas,Singh,jonas.singh@northwind-analytics.example,Support,Support Specialist,L4,DACH,2021-10-24,96700,0.229,Hybrid,,4.8
+EMP-2086,Camila,Eriksen,camila.eriksen@northwind-analytics.example,Marketing,Content Strategist,L1,APAC-N,2023-10-30,54000,0.229,Hybrid,EMP-2018,3.1
+EMP-2087,Yara,Hoffmann,yara.hoffmann@northwind-analytics.example,Operations,Operations Analyst,L3,DACH,2016-10-17,82900,0.144,Hybrid,EMP-2011,4.2
+EMP-2088,Amara,Kowalski,amara.kowalski@northwind-analytics.example,Finance,Controller,L4,NORDIC,2020-10-02,141800,0.052,Remote,EMP-2033,2.1
+EMP-2089,Yusuf,Sandoval,yusuf.sandoval@northwind-analytics.example,People,HR Business Partner,L2,NORDIC,2017-07-02,74500,0.096,Hybrid,,3.3
+EMP-2090,Elena,Garcia,elena.garcia@northwind-analytics.example,Engineering,SRE,L5,LATAM,2021-05-18,227900,0.095,Remote,EMP-2016,4.3
+EMP-2091,Sana,Novak,sana.novak@northwind-analytics.example,Marketing,Brand Designer,L1,LATAM,2014-08-25,54000,0.11,Remote,EMP-2002,4.4
+EMP-2092,Ravi,Weber,ravi.weber@northwind-analytics.example,Finance,Financial Analyst,L1,DACH,2016-04-18,61000,0.049,Onsite,,3.6
+EMP-2093,Bao,Rossi,bao.rossi@northwind-analytics.example,People,Recruiter,L1,NA-E,2020-09-26,52000,0.128,Hybrid,EMP-2006,2.2
+EMP-2094,Samir,Mbeki,samir.mbeki@northwind-analytics.example,Engineering,QA Engineer,L1,NORDIC,2015-10-30,82000,0.16,Hybrid,EMP-2031,2.6
+EMP-2095,Omar,Iversen,omar.iversen@northwind-analytics.example,Engineering,SRE,L2,APAC-N,2020-11-20,118800,0.161,Onsite,EMP-2023,2.2
+EMP-2096,Jonas,Quintero,jonas.quintero@northwind-analytics.example,People,HR Business Partner,L2,UKI,2016-11-24,71600,0.079,Onsite,EMP-2019,4.3
+EMP-2097,Tomas,Haddad,tomas.haddad@northwind-analytics.example,Marketing,Brand Designer,L1,NA-E,2018-11-15,54000,0.235,Hybrid,EMP-2034,4.9
+EMP-2098,Fatima,Dahl,fatima.dahl@northwind-analytics.example,Operations,Operations Analyst,L4,NA-E,2017-02-06,109500,0.154,Onsite,,3.8
+EMP-2099,Nadia,Alvarez,nadia.alvarez@northwind-analytics.example,Marketing,Demand Gen Manager,L1,NA-W,2020-06-13,54000,0.019,Onsite,,4.6
+EMP-2100,Fatima,Okafor,fatima.okafor@northwind-analytics.example,Operations,Logistics Coordinator,L3,APAC-S,2018-02-18,83700,0.086,Hybrid,EMP-2003,4.3
+EMP-2101,Petra,Carvalho,petra.carvalho@northwind-analytics.example,Operations,Operations Analyst,L5,NA-E,2016-12-31,130000,0.224,Hybrid,,3.8
+EMP-2102,Yara,Novak,yara.novak@northwind-analytics.example,Finance,AP Specialist,L4,APAC-N,2020-05-26,139200,0.101,Onsite,,4.1
+EMP-2103,Lucia,Wang,lucia.wang@northwind-analytics.example,Engineering,QA Engineer,L4,LATAM,2020-05-11,193000,0.24,Hybrid,,4.8
+EMP-2104,Thea,Okafor,thea.okafor@northwind-analytics.example,Sales,Account Executive,L1,APAC-S,2018-10-10,58000,0.062,Hybrid,EMP-2021,3.3
+EMP-2105,Bao,Garcia,bao.garcia@northwind-analytics.example,Marketing,Brand Designer,L4,UKI,2014-05-06,113700,0.067,Hybrid,,2.7
+EMP-2106,Fatima,Dahl,fatima.dahl@northwind-analytics.example,Engineering,QA Engineer,L1,NA-E,2018-08-21,82000,0.17,Hybrid,,4.1
+EMP-2107,Darius,Iversen,darius.iversen@northwind-analytics.example,Sales,Account Executive,L3,LATAM,2022-07-14,116200,0.187,Hybrid,EMP-2021,2.6
+EMP-2108,Hana,Hoffmann,hana.hoffmann@northwind-analytics.example,Marketing,Demand Gen Manager,L1,NA-E,2023-11-04,54000,0.052,Hybrid,EMP-2033,4.6
+EMP-2109,Olga,Zimmerman,olga.zimmerman@northwind-analytics.example,Marketing,Content Strategist,L1,NA-E,2022-11-01,54000,0.027,Hybrid,,2.2
+EMP-2110,Emeka,Haddad,emeka.haddad@northwind-analytics.example,Sales,Sales Manager,L1,NORDIC,2025-05-20,58000,0.202,Remote,,2.7
+EMP-2111,Zoe,Mbeki,zoe.mbeki@northwind-analytics.example,Marketing,Demand Gen Manager,L3,UKI,2021-08-22,101500,0.155,Hybrid,EMP-2018,4.5
+EMP-2112,Adaeze,Oyelaran,adaeze.oyelaran@northwind-analytics.example,Finance,AP Specialist,L4,NA-W,2022-05-24,141000,0.047,Hybrid,EMP-2033,2.5
+EMP-2113,Aria,Rossi,aria.rossi@northwind-analytics.example,Finance,Controller,L2,APAC-S,2021-11-10,83600,0.034,Hybrid,EMP-2031,2.5
+EMP-2114,Nikolai,Tanaka,nikolai.tanaka@northwind-analytics.example,Engineering,Software Engineer,L5,APAC-N,2014-12-02,207600,0.218,Remote,,4.8
+EMP-2115,Thea,Yilmaz,thea.yilmaz@northwind-analytics.example,People,HR Business Partner,L2,LATAM,2017-11-09,73200,0.147,Hybrid,,4.7
+EMP-2116,Ines,Costa,ines.costa@northwind-analytics.example,People,People Ops Coordinator,L3,APAC-N,2014-03-21,92000,0.123,Hybrid,,4.0
+EMP-2117,Chen,Okafor,chen.okafor@northwind-analytics.example,Operations,Ops Manager,L1,APAC-S,2014-09-21,48000,0.238,Remote,EMP-2004,4.1
+EMP-2118,Zoe,Weber,zoe.weber@northwind-analytics.example,Engineering,Engineering Manager,L1,NORDIC,2025-05-18,82000,0.195,Hybrid,EMP-2022,2.8
+EMP-2119,Hana,Jensen,hana.jensen@northwind-analytics.example,Sales,Sales Manager,L2,APAC-N,2024-06-13,83900,0.166,Onsite,,3.5
+EMP-2120,Fatima,Petrov,fatima.petrov@northwind-analytics.example,Marketing,Brand Designer,L2,LATAM,2014-04-19,77300,0.07,Onsite,,4.4
+EMP-2121,Wei,Sorensen,wei.sorensen@northwind-analytics.example,Support,Technical Account Manager,L2,LATAM,2020-08-21,59500,0.039,Onsite,,2.2
+EMP-2122,Liam,Delgado,liam.delgado@northwind-analytics.example,Finance,AP Specialist,L2,APAC-S,2015-04-20,83000,0.214,Remote,,3.1
+EMP-2123,Bianca,Mbeki,bianca.mbeki@northwind-analytics.example,People,People Ops Coordinator,L2,NORDIC,2021-07-21,70500,0.168,Remote,EMP-2038,3.7
+EMP-2124,Thea,Rossi,thea.rossi@northwind-analytics.example,Support,Technical Account Manager,L3,LATAM,2021-02-09,75900,0.043,Hybrid,,2.2
+EMP-2125,Camila,Yilmaz,camila.yilmaz@northwind-analytics.example,Engineering,SRE,L5,NA-E,2015-01-15,216900,0.075,Onsite,EMP-2008,4.5
+EMP-2126,Wei,Okafor,wei.okafor@northwind-analytics.example,Engineering,Software Engineer,L3,APAC-N,2024-05-10,152000,0.123,Hybrid,EMP-2005,2.2
+EMP-2127,Ada,Sandoval,ada.sandoval@northwind-analytics.example,Operations,Logistics Coordinator,L2,APAC-S,2022-04-27,65400,0.204,Onsite,EMP-2018,2.2
+EMP-2128,Lucia,Sandoval,lucia.sandoval@northwind-analytics.example,People,Recruiter,L5,NA-W,2025-01-07,133300,0.01,Hybrid,,3.6
+EMP-2129,Lara,Andersen,lara.andersen@northwind-analytics.example,Operations,Operations Analyst,L4,NA-W,2020-10-08,111400,0.206,Remote,EMP-2013,4.5
+EMP-2130,Lara,Singh,lara.singh@northwind-analytics.example,Marketing,Content Strategist,L2,NA-W,2018-01-12,75500,0.191,Remote,EMP-2008,4.3
+EMP-2131,Elena,Marchetti,elena.marchetti@northwind-analytics.example,Support,Support Lead,L1,DACH,2023-11-13,42000,0.119,Hybrid,EMP-2010,3.2
+EMP-2132,Ines,Jensen,ines.jensen@northwind-analytics.example,Sales,Sales Engineer,L3,APAC-N,2017-12-13,109300,0.238,Hybrid,,2.3
+EMP-2133,Thea,Bennett,thea.bennett@northwind-analytics.example,Finance,Financial Analyst,L4,UKI,2024-08-14,127100,0.089,Hybrid,,4.8
+EMP-2134,Daniela,Toure,daniela.toure@northwind-analytics.example,Marketing,Content Strategist,L3,DACH,2015-06-26,99300,0.147,Hybrid,EMP-2023,2.2
+EMP-2135,Ivan,Sandoval,ivan.sandoval@northwind-analytics.example,Finance,Controller,L1,NA-W,2022-11-24,61000,0.083,Onsite,EMP-2037,3.3
+EMP-2136,Tomas,Kowalski,tomas.kowalski@northwind-analytics.example,Sales,Sales Engineer,L2,APAC-N,2021-07-06,84200,0.011,Onsite,,4.2
+EMP-2137,Adaeze,Garcia,adaeze.garcia@northwind-analytics.example,Engineering,SRE,L5,NA-W,2017-10-02,224300,0.02,Hybrid,,3.9
+EMP-2138,Rania,Marchetti,rania.marchetti@northwind-analytics.example,Support,Support Specialist,L5,NORDIC,2018-12-06,104100,0.065,Onsite,EMP-2012,4.1
+EMP-2139,Fatima,Khan,fatima.khan@northwind-analytics.example,Sales,SDR,L4,DACH,2020-03-23,138600,0.114,Hybrid,EMP-2010,4.5
+EMP-2140,Olga,Vogel,olga.vogel@northwind-analytics.example,Engineering,SRE,L1,NA-W,2016-12-26,82000,0.201,Onsite,,4.6
+EMP-2141,Greta,Weber,greta.weber@northwind-analytics.example,Marketing,Content Strategist,L1,NA-E,2022-04-16,54000,0.143,Remote,,3.1
+EMP-2142,Zoe,Hoffmann,zoe.hoffmann@northwind-analytics.example,Support,Technical Account Manager,L4,NORDIC,2017-07-13,96200,0.169,Hybrid,,3.0
+EMP-2143,Greta,Toure,greta.toure@northwind-analytics.example,People,Recruiter,L1,APAC-S,2015-12-12,52000,0.248,Onsite,,4.5
+EMP-2144,Kwame,Hoffmann,kwame.hoffmann@northwind-analytics.example,People,People Ops Coordinator,L4,DACH,2017-09-03,115100,0.109,Onsite,EMP-2014,2.5
+EMP-2145,Elena,Sandoval,elena.sandoval@northwind-analytics.example,Engineering,QA Engineer,L2,NA-W,2016-09-25,117600,0.119,Hybrid,,4.6
+EMP-2146,Caleb,Vargas,caleb.vargas@northwind-analytics.example,Finance,Controller,L2,NA-W,2020-08-05,83700,0.018,Remote,,4.4
+EMP-2147,Aria,Oyelaran,aria.oyelaran@northwind-analytics.example,Support,Support Specialist,L3,APAC-S,2023-04-09,74700,0.124,Remote,,3.9
+EMP-2148,Petra,Quintero,petra.quintero@northwind-analytics.example,Engineering,Engineering Manager,L3,NA-W,2018-05-12,153900,0.113,Hybrid,,3.0
+EMP-2149,Olga,Okafor,olga.okafor@northwind-analytics.example,Support,Support Lead,L1,NA-E,2017-03-24,42000,0.072,Hybrid,EMP-2016,3.4
+EMP-2150,Wei,Zhang,wei.zhang@northwind-analytics.example,Finance,Controller,L2,DACH,2017-03-19,87800,0.224,Onsite,EMP-2028,3.0
+EMP-2151,Yusuf,Mbeki,yusuf.mbeki@northwind-analytics.example,Marketing,Content Strategist,L3,NORDIC,2022-08-27,100700,0.139,Hybrid,EMP-2025,2.2
+EMP-2152,Viktor,Vargas,viktor.vargas@northwind-analytics.example,Operations,Operations Analyst,L2,NA-W,2023-05-08,65300,0.005,Hybrid,,4.5
+EMP-2153,Rosa,Toure,rosa.toure@northwind-analytics.example,Sales,Account Executive,L1,UKI,2017-10-24,58000,0.165,Hybrid,EMP-2023,3.1
+EMP-2154,Omar,Garcia,omar.garcia@northwind-analytics.example,Operations,Operations Analyst,L3,LATAM,2019-05-28,89100,0.201,Onsite,EMP-2015,4.9
+EMP-2155,Felix,Rossi,felix.rossi@northwind-analytics.example,People,Recruiter,L2,APAC-N,2021-01-09,70600,0.169,Hybrid,EMP-2039,3.7
+EMP-2156,Lucia,Kowalski,lucia.kowalski@northwind-analytics.example,Engineering,QA Engineer,L2,DACH,2022-09-28,114000,0.227,Onsite,EMP-2037,3.9
+EMP-2157,Ines,Oyelaran,ines.oyelaran@northwind-analytics.example,Marketing,Demand Gen Manager,L2,APAC-N,2022-03-27,75900,0.027,Remote,,3.7
+EMP-2158,Jonas,Marchetti,jonas.marchetti@northwind-analytics.example,Finance,Financial Analyst,L1,NORDIC,2024-02-04,61000,0.117,Remote,EMP-2028,4.0
+EMP-2159,Bianca,Laurent,bianca.laurent@northwind-analytics.example,Sales,Account Executive,L2,APAC-S,2014-09-04,85100,0.142,Hybrid,EMP-2008,2.5
+EMP-2160,Felix,Delgado,felix.delgado@northwind-analytics.example,Operations,Logistics Coordinator,L4,APAC-S,2014-06-23,113300,0.032,Onsite,EMP-2027,4.7
+EMP-2161,Tariq,Vogel,tariq.vogel@northwind-analytics.example,People,People Ops Coordinator,L3,NA-E,2014-11-27,96100,0.061,Onsite,EMP-2035,2.6
+EMP-2162,Fatima,Andersen,fatima.andersen@northwind-analytics.example,Finance,Controller,L2,LATAM,2020-02-27,85900,0.203,Hybrid,,4.6
+EMP-2163,Bruno,Nakamura,bruno.nakamura@northwind-analytics.example,Marketing,Brand Designer,L3,LATAM,2024-11-24,102500,0.097,Onsite,,3.3
+EMP-2164,Camila,Novak,camila.novak@northwind-analytics.example,Marketing,Brand Designer,L5,NA-E,2023-12-22,133700,0.111,Remote,EMP-2027,4.0
+EMP-2165,Darius,Alvarez,darius.alvarez@northwind-analytics.example,Finance,Controller,L5,NA-W,2018-12-21,147500,0.046,Remote,,3.5
+EMP-2166,Lucia,Bakker,lucia.bakker@northwind-analytics.example,Operations,Logistics Coordinator,L1,UKI,2015-12-23,48000,0.228,Onsite,,3.1
+EMP-2167,Tariq,Fontaine,tariq.fontaine@northwind-analytics.example,Support,Support Specialist,L2,APAC-N,2017-11-16,59100,0.071,Hybrid,,2.3
+EMP-2168,Petra,Carvalho,petra.carvalho@northwind-analytics.example,People,Recruiter,L3,LATAM,2014-08-31,95000,0.043,Onsite,,3.5
+EMP-2169,Julia,Toure,julia.toure@northwind-analytics.example,People,Recruiter,L3,DACH,2015-05-09,95500,0.05,Hybrid,,4.1
+EMP-2170,Sana,Lindqvist,sana.lindqvist@northwind-analytics.example,Engineering,Engineering Manager,L1,APAC-S,2025-01-10,82000,0.205,Hybrid,EMP-2016,4.3
+EMP-2171,Ravi,Zhang,ravi.zhang@northwind-analytics.example,Finance,AP Specialist,L1,NA-E,2023-01-21,61000,0.046,Onsite,,3.0
+EMP-2172,Daniela,Quintero,daniela.quintero@northwind-analytics.example,Sales,Account Executive,L1,LATAM,2020-04-17,58000,0.241,Onsite,EMP-2033,3.7
+EMP-2173,Camila,Tanaka,camila.tanaka@northwind-analytics.example,Operations,Logistics Coordinator,L3,NA-E,2022-10-18,88200,0.155,Hybrid,,4.3
+EMP-2174,Paulo,Tanaka,paulo.tanaka@northwind-analytics.example,Finance,Financial Analyst,L2,APAC-S,2017-03-26,86400,0.178,Hybrid,,4.6
+EMP-2175,Liam,Sorensen,liam.sorensen@northwind-analytics.example,Marketing,Brand Designer,L4,NA-W,2024-03-31,124200,0.238,Remote,,4.1
+EMP-2176,Amara,Chen,amara.chen@northwind-analytics.example,People,People Ops Coordinator,L3,NORDIC,2021-06-05,89700,0.184,Remote,,4.3
+EMP-2177,Elena,Sandoval,elena.sandoval@northwind-analytics.example,People,HR Business Partner,L1,APAC-S,2021-10-02,52000,0.186,Hybrid,EMP-2014,2.6
+EMP-2178,Wei,Novak,wei.novak@northwind-analytics.example,Marketing,Content Strategist,L2,NORDIC,2022-03-28,77100,0.239,Hybrid,,2.5
+EMP-2179,Jonas,Moreau,jonas.moreau@northwind-analytics.example,Finance,AP Specialist,L1,DACH,2015-07-13,61000,0.024,Hybrid,EMP-2013,4.8
+EMP-2180,Adaeze,Dahl,adaeze.dahl@northwind-analytics.example,Operations,Logistics Coordinator,L2,NA-E,2017-05-24,67300,0.136,Onsite,EMP-2035,5.0
+EMP-2181,Wei,Kowalski,wei.kowalski@northwind-analytics.example,Engineering,QA Engineer,L2,APAC-S,2014-04-16,116600,0.049,Remote,,4.6
+EMP-2182,Lara,Bakker,lara.bakker@northwind-analytics.example,People,HR Business Partner,L3,NORDIC,2017-05-09,94200,0.027,Hybrid,EMP-2025,4.6
+EMP-2183,Hugo,Rossi,hugo.rossi@northwind-analytics.example,People,Recruiter,L5,UKI,2018-09-23,143400,0.139,Hybrid,EMP-2008,4.5
+EMP-2184,Tariq,Khan,tariq.khan@northwind-analytics.example,Engineering,Software Engineer,L3,NA-W,2015-03-31,151700,0.048,Hybrid,EMP-2026,4.1
+EMP-2185,Olga,Bakker,olga.bakker@northwind-analytics.example,Engineering,QA Engineer,L1,APAC-N,2015-06-27,82000,0.066,Onsite,EMP-2005,2.9
+EMP-2186,Sana,Marchetti,sana.marchetti@northwind-analytics.example,People,Recruiter,L1,UKI,2018-01-28,52000,0.144,Hybrid,EMP-2013,3.3
+EMP-2187,Bianca,Vargas,bianca.vargas@northwind-analytics.example,People,HR Business Partner,L3,APAC-S,2020-10-01,93800,0.211,Hybrid,,2.3
+EMP-2188,Caleb,Toure,caleb.toure@northwind-analytics.example,Finance,AP Specialist,L1,DACH,2025-02-19,61000,0.182,Hybrid,EMP-2020,3.6
+EMP-2189,Malik,Quintero,malik.quintero@northwind-analytics.example,Marketing,Brand Designer,L1,NORDIC,2019-03-12,54000,0.056,Onsite,,3.6
+EMP-2190,Ada,Iversen,ada.iversen@northwind-analytics.example,Operations,Logistics Coordinator,L1,APAC-N,2025-04-28,48000,0.135,Hybrid,,2.8
+EMP-2191,Bianca,Lindqvist,bianca.lindqvist@northwind-analytics.example,Finance,AP Specialist,L3,NA-E,2022-10-15,105900,0.111,Hybrid,,2.1
+EMP-2192,Mei,Petrov,mei.petrov@northwind-analytics.example,Support,Support Lead,L3,APAC-N,2016-07-04,76300,0.19,Remote,EMP-2035,3.2
+EMP-2193,Olga,Sorensen,olga.sorensen@northwind-analytics.example,Support,Technical Account Manager,L3,UKI,2017-08-17,71300,0.148,Onsite,EMP-2031,2.8
+EMP-2194,Zara,Yilmaz,zara.yilmaz@northwind-analytics.example,People,Recruiter,L1,NORDIC,2024-04-05,52000,0.033,Hybrid,,4.9
+EMP-2195,Caleb,Dahl,caleb.dahl@northwind-analytics.example,People,People Ops Coordinator,L1,NORDIC,2021-10-16,52000,0.014,Remote,EMP-2027,4.7
+EMP-2196,Bao,Singh,bao.singh@northwind-analytics.example,Support,Support Specialist,L2,UKI,2017-08-28,57500,0.059,Onsite,EMP-2021,2.7
+EMP-2197,Samir,Novak,samir.novak@northwind-analytics.example,Support,Support Specialist,L3,NORDIC,2017-05-07,73900,0.173,Hybrid,,2.3
+EMP-2198,Zoe,Dahl,zoe.dahl@northwind-analytics.example,Marketing,Brand Designer,L4,LATAM,2015-01-03,117100,0.166,Hybrid,EMP-2009,2.5
+EMP-2199,Lucia,Jensen,lucia.jensen@northwind-analytics.example,Marketing,Demand Gen Manager,L2,NORDIC,2024-01-08,74300,0.091,Remote,EMP-2020,4.7
+EMP-2200,Olga,Delgado,olga.delgado@northwind-analytics.example,Finance,AP Specialist,L1,APAC-N,2016-01-31,61000,0.117,Onsite,,2.5
+EMP-2201,Felix,Moreau,felix.moreau@northwind-analytics.example,Marketing,Demand Gen Manager,L2,NA-W,2019-06-16,78600,0.154,Onsite,EMP-2018,4.2
+EMP-2202,Omar,Vargas,omar.vargas@northwind-analytics.example,Support,Support Lead,L2,UKI,2014-09-10,56700,0.113,Hybrid,,4.8
+EMP-2203,Uma,Alvarez,uma.alvarez@northwind-analytics.example,Engineering,Engineering Manager,L2,LATAM,2023-10-08,114000,0.045,Remote,,3.3
+EMP-2204,Bruno,Fontaine,bruno.fontaine@northwind-analytics.example,Marketing,Content Strategist,L1,DACH,2015-06-07,54000,0.098,Onsite,,4.5
+EMP-2205,Lucia,Garcia,lucia.garcia@northwind-analytics.example,Finance,AP Specialist,L2,APAC-N,2017-03-05,86800,0.062,Hybrid,EMP-2021,3.8
+EMP-2206,Fatima,Garcia,fatima.garcia@northwind-analytics.example,People,HR Business Partner,L1,NORDIC,2023-12-07,52000,0.13,Onsite,EMP-2009,4.0
+EMP-2207,Ravi,Zhang,ravi.zhang@northwind-analytics.example,People,HR Business Partner,L4,APAC-N,2018-10-10,113200,0.187,Remote,EMP-2022,2.3
+EMP-2208,Chen,Lindqvist,chen.lindqvist@northwind-analytics.example,Support,Support Specialist,L1,LATAM,2015-11-16,42000,0.015,Hybrid,EMP-2009,4.5
+EMP-2209,Fatima,Bennett,fatima.bennett@northwind-analytics.example,Support,Technical Account Manager,L1,NORDIC,2021-05-07,42000,0.103,Hybrid,EMP-2035,3.8
+EMP-2210,Bruno,Bennett,bruno.bennett@northwind-analytics.example,Support,Technical Account Manager,L2,APAC-S,2021-07-10,57200,0.115,Remote,EMP-2037,4.3
+EMP-2211,Nikolai,Sorensen,nikolai.sorensen@northwind-analytics.example,Sales,Sales Manager,L2,UKI,2015-03-19,82700,0.08,Onsite,EMP-2019,3.5
+EMP-2212,Camila,Kowalski,camila.kowalski@northwind-analytics.example,People,People Ops Coordinator,L2,APAC-S,2023-10-06,73300,0.02,Hybrid,EMP-2010,2.6
+EMP-2213,Chen,Marchetti,chen.marchetti@northwind-analytics.example,Engineering,Software Engineer,L2,NA-W,2022-11-18,116300,0.233,Hybrid,EMP-2003,3.7
+EMP-2214,Tariq,Yilmaz,tariq.yilmaz@northwind-analytics.example,Operations,Ops Manager,L2,NA-W,2014-08-14,66800,0.128,Hybrid,,4.5
+EMP-2215,Ines,Alvarez,ines.alvarez@northwind-analytics.example,People,HR Business Partner,L4,APAC-N,2015-02-18,107000,0.069,Hybrid,EMP-2007,4.5
+EMP-2216,Wei,Carvalho,wei.carvalho@northwind-analytics.example,Engineering,Engineering Manager,L3,APAC-N,2023-10-30,153000,0.164,Remote,EMP-2004,4.5
+EMP-2217,Uma,Kowalski,uma.kowalski@northwind-analytics.example,Engineering,SRE,L3,NA-W,2021-01-05,151000,0.179,Hybrid,,2.6
+EMP-2218,Zara,Zimmerman,zara.zimmerman@northwind-analytics.example,Marketing,Brand Designer,L1,NA-W,2023-08-12,54000,0.2,Hybrid,EMP-2035,2.4
+EMP-2219,Nikolai,Delgado,nikolai.delgado@northwind-analytics.example,Operations,Logistics Coordinator,L1,DACH,2019-10-21,48000,0.242,Remote,EMP-2012,4.5
+EMP-2220,Fatima,Abara,fatima.abara@northwind-analytics.example,Engineering,Engineering Manager,L2,DACH,2024-05-05,114200,0.217,Onsite,,2.4
+EMP-2221,Aria,Chen,aria.chen@northwind-analytics.example,Sales,SDR,L4,NA-E,2018-06-20,139500,0.046,Hybrid,,4.1
+EMP-2222,Zoe,Nakamura,zoe.nakamura@northwind-analytics.example,Sales,Sales Manager,L3,NA-E,2024-11-19,107600,0.098,Remote,,2.2
+EMP-2223,Ravi,Zhang,ravi.zhang@northwind-analytics.example,Support,Support Specialist,L4,NA-E,2021-07-30,91500,0.215,Onsite,,4.6
+EMP-2224,Omar,Marchetti,omar.marchetti@northwind-analytics.example,Engineering,SRE,L3,DACH,2024-10-04,155000,0.229,Hybrid,,3.0
+EMP-2225,Hana,Oyelaran,hana.oyelaran@northwind-analytics.example,Sales,Sales Engineer,L2,APAC-N,2018-05-31,82800,0.237,Hybrid,,4.7
+EMP-2226,Samir,Carvalho,samir.carvalho@northwind-analytics.example,Sales,SDR,L3,NA-W,2021-09-30,108400,0.187,Hybrid,,3.4
+EMP-2227,Elena,Khan,elena.khan@northwind-analytics.example,People,HR Business Partner,L2,APAC-S,2016-12-30,71200,0.137,Hybrid,EMP-2028,3.6
+EMP-2228,Elena,Wang,elena.wang@northwind-analytics.example,Sales,Sales Engineer,L2,NA-E,2018-08-13,86400,0.028,Remote,,3.5
+EMP-2229,Camila,Novak,camila.novak@northwind-analytics.example,Finance,Financial Analyst,L1,LATAM,2019-07-21,61000,0.056,Hybrid,EMP-2008,3.5
+EMP-2230,Malik,Petrov,malik.petrov@northwind-analytics.example,Operations,Ops Manager,L4,UKI,2016-08-18,101700,0.248,Remote,EMP-2008,4.1
+EMP-2231,Nikolai,Ibrahim,nikolai.ibrahim@northwind-analytics.example,Support,Technical Account Manager,L3,DACH,2020-02-01,76800,0.236,Remote,,3.4
+EMP-2232,Felix,Nakamura,felix.nakamura@northwind-analytics.example,People,People Ops Coordinator,L3,NORDIC,2021-09-25,91500,0.176,Remote,,3.1
+EMP-2233,Samir,Eriksen,samir.eriksen@northwind-analytics.example,Operations,Operations Analyst,L2,NA-W,2014-12-29,69500,0.051,Onsite,,3.1
+EMP-2234,Petra,Vargas,petra.vargas@northwind-analytics.example,Operations,Operations Analyst,L4,LATAM,2021-08-01,109500,0.184,Onsite,EMP-2007,4.7
+EMP-2235,Omar,Garcia,omar.garcia@northwind-analytics.example,Operations,Operations Analyst,L1,NA-W,2023-05-28,48000,0.11,Hybrid,,3.8
+EMP-2236,Ada,Bennett,ada.bennett@northwind-analytics.example,Support,Support Lead,L4,APAC-N,2017-04-04,97000,0.185,Remote,EMP-2032,3.5
+EMP-2237,Greta,Zimmerman,greta.zimmerman@northwind-analytics.example,People,HR Business Partner,L1,APAC-S,2014-07-22,52000,0.02,Onsite,EMP-2020,3.2
+EMP-2238,Julia,Andersen,julia.andersen@northwind-analytics.example,Engineering,Software Engineer,L5,APAC-N,2018-10-04,230700,0.2,Onsite,EMP-2013,4.4
+EMP-2239,Yara,Alvarez,yara.alvarez@northwind-analytics.example,Support,Support Specialist,L1,NA-E,2015-01-21,42000,0.075,Hybrid,,4.5
+EMP-2240,Nadia,Singh,nadia.singh@northwind-analytics.example,Finance,Controller,L2,DACH,2015-01-21,84700,0.135,Hybrid,,2.6
+EMP-2241,Hugo,Andersen,hugo.andersen@northwind-analytics.example,People,People Ops Coordinator,L4,DACH,2018-08-26,106700,0.166,Onsite,,3.8
+EMP-2242,Hana,Okafor,hana.okafor@northwind-analytics.example,Operations,Logistics Coordinator,L3,NORDIC,2021-07-08,86800,0.239,Hybrid,EMP-2008,3.7
+EMP-2243,Liam,Marchetti,liam.marchetti@northwind-analytics.example,Finance,Financial Analyst,L3,LATAM,2019-08-12,112000,0.018,Hybrid,EMP-2020,3.0
+EMP-2244,Bao,Moreau,bao.moreau@northwind-analytics.example,Sales,SDR,L2,APAC-N,2021-01-14,86300,0.108,Onsite,,3.7
+EMP-2245,Bianca,Nakamura,bianca.nakamura@northwind-analytics.example,Operations,Ops Manager,L3,LATAM,2015-12-10,83000,0.21,Hybrid,,3.3
+EMP-2246,Rosa,Abara,rosa.abara@northwind-analytics.example,Engineering,SRE,L3,NA-E,2022-07-29,146400,0.101,Onsite,,3.1
+EMP-2247,Daniela,Ibrahim,daniela.ibrahim@northwind-analytics.example,Engineering,Software Engineer,L2,DACH,2021-02-16,112800,0.143,Hybrid,EMP-2034,4.0
+EMP-2248,Thea,Bakker,thea.bakker@northwind-analytics.example,Finance,Financial Analyst,L1,APAC-S,2020-09-11,61000,0.051,Hybrid,,4.1
+EMP-2249,Camila,Weber,camila.weber@northwind-analytics.example,People,Recruiter,L2,NORDIC,2014-06-05,74100,0.16,Remote,,3.9
+EMP-2250,Kwame,Fontaine,kwame.fontaine@northwind-analytics.example,Marketing,Brand Designer,L2,NA-E,2018-03-21,73500,0.01,Onsite,EMP-2035,4.8

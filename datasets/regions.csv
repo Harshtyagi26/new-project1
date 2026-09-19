@@ -1,0 +1,9 @@
+RegionCode,RegionName,SuperRegion,RegionalDirector,QuotaShare
+NA-E,North America East,Americas,Dana Whitfield,0.24
+NA-W,North America West,Americas,Priya Raman,0.21
+LATAM,Latin America,Americas,Mateo Ferreira,0.09
+UKI,UK & Ireland,EMEA,Owen Blackwood,0.13
+DACH,Germany Austria Switzerland,EMEA,Lena Brandt,0.11
+NORDIC,Nordics,EMEA,Sofia Lindqvist,0.06
+APAC-N,Asia Pacific North,APAC,Kenji Morita,0.1
+APAC-S,Asia Pacific South,APAC,Aarav Deshmukh,0.06

@@ -1,0 +1,16 @@
+# Excel working files produced while doing the exercises
+*.xlsx
+*.xlsm
+*.xlsb
+*.xltx
+~$*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
